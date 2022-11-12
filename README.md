@@ -1,16 +1,17 @@
 # Hi there <a href="https://leonkohli.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Leon](https://leonkohli.github.io/) 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/leonkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/leonkohli)
 [![Linkedin: LeonKohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](https://de.linkedin.com/in/leon-kohlhaußen-72b9041aa)
 [![Telegram](https://img.shields.io/badge/LeonKohli-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeonKohli)
+[![Twitter Follow](https://img.shields.io/twitter/follow/leonkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/leonkohli)
 [![Instagram: leonkohli](https://img.shields.io/badge/-leonkohli-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](https://www.instagram.com/leonkohli/)
+[![StackOverflow: LeonKohli](https://img.shields.io/badge/-LeonKohli-orange?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/20480270/leonkohli)](https://stackoverflow.com/users/20480270/leonkohli)
 
 ![GitHub leonkohli](https://img.shields.io/github/followers/leonkohli?label=follow&style=social)
 
 ---
 
-This is the place where i publish all of my programming work I do currently. I'm a Trainee IT specialist for system integration in Potsdam. I'm currently doing alot of Java and Python projects.
-I'm also interested in Web Development and Game Development. I mostly program in my free time and I'm always looking for new projects to work on.
+This is the place where i publish all of my programming work I do currently. I'm a trainee it specialist for system integration in Potsdam. I'm currently doing alot of Java and Python projects.
+I'm also interested in web development and game development. I mostly program in my free time and I'm always looking for new projects to work on.
 I started activly programming on here in august 2022.
 
 - 🔭 &nbsp;I’m currently working on a [game collection](https://github.com/LeonKohli/ArcadeGameCollection) in Python
@@ -33,7 +34,7 @@ I started activly programming on here in august 2022.
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea)]
 
 ### Looking forwad to learn:
 
@@ -44,6 +45,7 @@ I started activly programming on here in august 2022.
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![powershell](https://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell)
 
 ## &#x1f4c8; Git Stats
 
