@@ -4,7 +4,7 @@
 This is the place where i publish all of my programming work I do currently.
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Python and Java
+- 🌱 &nbsp;I love beeing outside in the nature
+- 🤖 &nbsp;I’m currently learning Python and Java
 - 📫 &nbsp;How to reach me: [@LeonKohli](https://t.me/LeonKohli)
-- 👨‍💻 &nbsp;Read more about my projects at [coming soon]()
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- 👨‍💻 &nbsp;Read more about my projects at: [coming soon]()
