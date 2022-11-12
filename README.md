@@ -19,6 +19,8 @@ I started activly programming on here in august 2022.
 - 🤖 &nbsp;I’m currently learning more advanced Python and Java
 - 👨‍💻 &nbsp;Read more about my projects at: [coming soon](https://leonkohli.github.io/)
 
+<img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonKohli&repo=ArcadeGameCollection&layout=compact&theme=tokyonight">
+
 ---
 
 ## 🚀💻 Technologies & Tools
@@ -51,5 +53,6 @@ I started activly programming on here in august 2022.
 
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=LeonKohli&show_icons=true&theme=tokyonight">  
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=LeonKohli&langs_count=5&layout=compact&theme=tokyonight">
+
 
 ![](https://hit.yhype.me/github/profile?user_id=98176333)
