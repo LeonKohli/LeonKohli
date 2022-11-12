@@ -1,15 +1,53 @@
-### Hi there <a href="https://leonkohli.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Hi there <a href="https://leonkohli.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Leon](https://leonkohli.github.io/) 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/leonkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/leonkohli)
+[![Linkedin: LeonKohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](https://de.linkedin.com/in/leon-kohlhaußen-72b9041aa)
+[![Telegram](https://img.shields.io/badge/LeonKohli-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeonKohli)
+[![Instagram: leonkohli](https://img.shields.io/badge/-leonkohli-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](https://www.instagram.com/leonkohli/)
+
+![GitHub leonkohli](https://img.shields.io/github/followers/leonkohli?label=follow&style=social)
+
 ---
 
-This is the place where i publish all of my programming work I do currently.
+This is the place where i publish all of my programming work I do currently. I'm a Trainee IT specialist for system integration in Potsdam. I'm currently doing alot of Java and Python projects.
+I'm also interested in Web Development and Game Development. I mostly program in my free time and I'm always looking for new projects to work on.
+I started activly programming on here in august 2022.
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I love beeing outside in the nature
-- 🤖 &nbsp;I’m currently learning Python and Java
-- 📫 &nbsp;How to reach me: [@LeonKohli](https://t.me/LeonKohli)
-- 👨‍💻 &nbsp;Read more about my projects at: [coming soon]()
+- 🔭 &nbsp;I’m currently working on a [game collection](https://github.com/LeonKohli/ArcadeGameCollection) in Python
+- 🌱 &nbsp;I love beeing outside in the nature and I'm a big fan of bikepacking and camping
+- 🤖 &nbsp;I’m currently learning more advanced Python and Java
+- 👨‍💻 &nbsp;Read more about my projects at: [coming soon](https://leonkohli.github.io/)
 
+---
 
-<img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=LeonKohli&show_icons=true&theme=tokyonight">  <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=LeonKohli&langs_count=5&layout=compact&theme=tokyonight">
+## 🚀💻 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Dockers](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![VMware](https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Sphinx](https://img.shields.io/badge/-Sphinx-black?style=flat-square&logo=sphinx)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea)
+
+### Looking forwad to learn:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+
+## &#x1f4c8; Git Stats
+
+<img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=LeonKohli&show_icons=true&theme=tokyonight">  
+<img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=LeonKohli&langs_count=5&layout=compact&theme=tokyonight">
 
 ![](https://hit.yhype.me/github/profile?user_id=98176333)
