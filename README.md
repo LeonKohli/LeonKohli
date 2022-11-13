@@ -1,4 +1,4 @@
-# Hi there <a href="https://leonkohli.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Leon](https://leonkohli.github.io/) 👋
+# Hi there <a href="https://leonkohli.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Leon](https://leonkohli.github.io/) 
 
 [![Linkedin: LeonKohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](https://de.linkedin.com/in/leon-kohlhaußen-72b9041aa)
 [![Telegram](https://img.shields.io/badge/LeonKohli-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeonKohli)
