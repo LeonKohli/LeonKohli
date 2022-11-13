@@ -10,7 +10,7 @@
 
 ---
 
-This is the place where i publish all of my programming work I do currently. I'm a trainee it specialist for system integration in Potsdam. I'm currently doing alot of Java and Python projects.
+This is the place where i publish all of my programming work I do currently. I'm a trainee IT specialist for system integration in Potsdam. I'm currently doing alot of Java and Python projects.
 I'm also interested in web development and game development. I mostly program in my free time and I'm always looking for new projects to work on.
 I started activly programming on here in august 2022.
 
