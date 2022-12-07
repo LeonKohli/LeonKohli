@@ -54,6 +54,10 @@ I started activly programming on here in august 2022.
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=LeonKohli&show_icons=true&theme=tokyonight">  
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=LeonKohli&langs_count=5&layout=compact&theme=tokyonight">
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![View](https://hit.yhype.me/github/profile?user_id=98176333)
 
 
