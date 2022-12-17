@@ -58,16 +58,16 @@ I started activly programming on here in august 2022.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 14 December 2022
+From: 11 November 2022 - To: 15 December 2022
 
-Total Time: 23 hrs 19 mins
+Total Time: 23 hrs 53 mins
 
-Java               11 hrs 13 mins  >>>>>>>>>>>>-------------   48.11 %
-JavaScript         5 hrs 9 mins    >>>>>>-------------------   22.12 %
-Python             2 hrs 28 mins   >>>----------------------   10.59 %
-reStructuredText   2 hrs 2 mins    >>-----------------------   08.74 %
-Markdown           48 mins         >------------------------   03.48 %
-Text               23 mins         -------------------------   01.70 %
+Java               11 hrs 13 mins  >>>>>>>>>>>>-------------   46.98 %
+JavaScript         5 hrs 9 mins    >>>>>--------------------   21.60 %
+Python             2 hrs 45 mins   >>>----------------------   11.54 %
+reStructuredText   2 hrs 2 mins    >>-----------------------   08.53 %
+Markdown           48 mins         >------------------------   03.40 %
+Text               23 mins         -------------------------   01.66 %
 ```
 
 <!--END_SECTION:waka-->
