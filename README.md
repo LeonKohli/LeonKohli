@@ -17,7 +17,7 @@ I started activly programming on here in august 2022.
 - 🔭 &nbsp;I’m currently working on a [game collection](https://github.com/LeonKohli/ArcadeGameCollection) in Python
 - 🌱 &nbsp;I love beeing outside in the nature and I'm a big fan of bikepacking and camping
 - 🤖 &nbsp;I’m currently learning more advanced Python and Java
-- 👨‍💻 &nbsp;Read more about my projects at: [coming soon](https://leonkohli.github.io/)
+- 👨‍💻 &nbsp;Read more about my projects at: [coming soon](https://leonkohli.de)
 
 <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonKohli&repo=ArcadeGameCollection&layout=compact&theme=tokyonight">
 
