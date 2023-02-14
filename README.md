@@ -58,7 +58,7 @@ I started activly programming on here in august 2022.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 11 February 2023
+From: 11 November 2022 - To: 12 February 2023
 
 Total Time: 26 hrs 31 mins
 
