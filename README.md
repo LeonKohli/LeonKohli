@@ -14,7 +14,7 @@ This is the place where i publish all of my programming work I do currently. I'm
 I'm also interested in web development and game development. I mostly program in my free time and I'm always looking for new projects to work on.
 I started activly programming on here in august 2022.
 
-- 🔭 &nbsp;I’m currently working on a [game collection](https://github.com/LeonKohli/ArcadeGameCollection) in Python
+- 🔭 &nbsp;I’m currently working on a [StatzyGUI](https://github.com/LeonKohli/StatzyGUI)
 - 🌱 &nbsp;I love beeing outside in the nature and I'm a big fan of bikepacking and camping
 - 🤖 &nbsp;I’m currently learning more advanced Python and Java
 - 👨‍💻 &nbsp;Read more about my projects at: [coming soon](https://leonkohli.de)
