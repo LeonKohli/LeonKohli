@@ -55,22 +55,6 @@ I started activly programming on here in august 2022.
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=LeonKohli&langs_count=5&layout=compact&theme=tokyonight">
 
 
-<!--START_SECTION:waka-->
-
-```text
-From: 11 November 2022 - To: 16 March 2023
-
-Total Time: 29 hrs 54 mins
-
-Java               11 hrs 13 mins  >>>>>>>>>----------------   37.52 %
-Python             7 hrs 7 mins    >>>>>>-------------------   23.82 %
-JavaScript         5 hrs 10 mins   >>>>---------------------   17.31 %
-reStructuredText   2 hrs 2 mins    >>-----------------------   06.81 %
-Markdown           54 mins         >------------------------   03.04 %
-C#                 49 mins         >------------------------   02.76 %
-```
-
-<!--END_SECTION:waka-->
 
 ![View](https://hit.yhype.me/github/profile?user_id=98176333)
 
