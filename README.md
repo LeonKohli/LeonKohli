@@ -56,6 +56,5 @@ I started activly programming on here in august 2022.
 
 
 
-![View](https://hit.yhype.me/github/profile?user_id=98176333)
 
 
