@@ -1,6 +1,6 @@
 # Hi there <a href="https://leonkohli.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Leon](https://leonkohli.github.io/) 
 
-[![Linkedin: LeonKohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](bit.ly/3n3wUnG)
+[![Linkedin: LeonKohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=bit.ly/3n3wUnG)]
 [![Telegram](https://img.shields.io/badge/LeonKohli-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](bit.ly/3Tt23gq)
 [![Twitter Follow](https://img.shields.io/twitter/follow/leonkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](bit.ly/3TqzUqc)
 [![Instagram: leonkohli](https://img.shields.io/badge/-leonkohli-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](bit.ly/3n1gmN2)
