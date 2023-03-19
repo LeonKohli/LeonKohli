@@ -1,10 +1,10 @@
 # Hi there <a href="https://leonkohli.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Leon](https://leonkohli.github.io/) 
 
-[![Linkedin: LeonKohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](https://de.linkedin.com/in/leon-kohlhaußen-72b9041aa)
-[![Telegram](https://img.shields.io/badge/LeonKohli-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeonKohli)
-[![Twitter Follow](https://img.shields.io/twitter/follow/leonkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/leonkohli)
-[![Instagram: leonkohli](https://img.shields.io/badge/-leonkohli-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](https://www.instagram.com/leonkohli/)
-[![StackOverflow: LeonKohli](https://img.shields.io/badge/-LeonKohli-orange?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/20480270/leonkohli)](https://stackoverflow.com/users/20480270/leonkohli)
+[![Linkedin: LeonKohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](bit.ly/3n3wUnG)
+[![Telegram](https://img.shields.io/badge/LeonKohli-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](bit.ly/3Tt23gq)
+[![Twitter Follow](https://img.shields.io/twitter/follow/leonkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](bit.ly/3TqzUqc)
+[![Instagram: leonkohli](https://img.shields.io/badge/-leonkohli-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](bit.ly/3n1gmN2)
+[![StackOverflow: LeonKohli](https://img.shields.io/badge/-LeonKohli-orange?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/20480270/leonkohli)](bit.ly/3mXI2lX)
 
 ![GitHub leonkohli](https://img.shields.io/github/followers/leonkohli?label=follow&style=social)
 
@@ -17,7 +17,7 @@ I started activly programming on here in august 2022.
 - 🔭 &nbsp;I’m currently working on a [StatzyGUI](https://github.com/LeonKohli/StatzyGUI)
 - 🌱 &nbsp;I love beeing outside in the nature and I'm a big fan of bikepacking and camping
 - 🤖 &nbsp;I’m currently learning more advanced Python and Java
-- 👨‍💻 &nbsp;Read more about my projects at: [coming soon](https://leonkohli.de)
+- 👨‍💻 &nbsp;Read more about my projects at: [coming soon](bit.ly/3LHjNTc)
 
 <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonKohli&repo=StatzyGUI&layout=compact&theme=tokyonight">
 
