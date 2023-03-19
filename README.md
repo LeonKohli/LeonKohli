@@ -36,18 +36,23 @@ I started activly programming on here in august 2022.
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea)]
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Linux Shell](https://img.shields.io/badge/-Linux_Shell-black?style=flat-square&logo=linux)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 
-### Looking forwad to learn:
+### Looking forward to learning:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![powershell](https://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell)
+
+
 
 ## &#x1f4c8; Git Stats
 
