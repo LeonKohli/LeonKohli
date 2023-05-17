@@ -1,62 +1,86 @@
-# Hi there <a href="https://leonkohli.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Leon](https://leonkohli.github.io/) 
+<div align="center">
 
-[![Linkedin: LeonKohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](https://de.linkedin.com/in/leon-kohlhaußen-72b9041aa)
-[![Telegram](https://img.shields.io/badge/LeonKohli-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeonKohli)
-[![Twitter Follow](https://img.shields.io/twitter/follow/leonkohli?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/leonkohli)
-[![Instagram: leonkohli](https://img.shields.io/badge/-leonkohli-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](https://www.instagram.com/leonkohli/)
-[![StackOverflow: LeonKohli](https://img.shields.io/badge/-LeonKohli-orange?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/20480270/leonkohli)](https://stackoverflow.com/users/20480270/leonkohli)
+# HelloWorld <a href="https://leonkohli.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Leon](https://leonkohli.github.io/) 
 
-![GitHub leonkohli](https://img.shields.io/github/followers/leonkohli?label=follow&style=social)
+</div>
+
+<div align="center">
+
+[![Linkedin: LeonKohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](https://de.linkedin.com/in/leon-kohlhaußen-72b9041aa)
+[![Telegram](https://img.shields.io/badge/LeonKohli-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/LeonKohli)
+[![Twitter Follow](https://img.shields.io/twitter/follow/leonkohli?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/leonkohli)
+[![Instagram: leonkohli](https://img.shields.io/badge/-leonkohli-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](https://www.instagram.com/leonkohli/)
+[![StackOverflow: LeonKohli](https://img.shields.io/badge/-LeonKohli-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/20480270/leonkohli)](https://stackoverflow.com/users/20480270/leonkohli)
+[![GitHub leonkohli](https://img.shields.io/github/followers/leonkohli?label=follow&style=social)](https://github.com/leonkohli)
+
+</div>
+
+---
+
+Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm passionate about Java and Python and I spend most of my time coding, gaining knowledge and working on projects that I love. I'm also enthusiastic about web development and game development. I started my active programming journey here in August 2022.
+
+- 🔭 I’m currently working on: [StatzyGUI](https://github.com/LeonKohli/StatzyGUI)
+- 🌱 Things I love: Being in nature, bikepacking, and camping
+- 🤖 I’m currently learning: Advanced Python and Java
+- 👨‍💻 Find more about my projects: [coming soon](https://leonkohli.de)
+
+[![StatzyGUI](https://github-readme-stats.vercel.app/api/pin/?username=LeonKohli&repo=StatzyGUI&layout=compact&theme=tokyonight)](https://github.com/LeonKohli/StatzyGUI)
 
 ---
 
-This is the place where i publish all of my programming work I do currently. I'm a trainee IT specialist for system integration in Potsdam. I'm currently doing alot of Java and Python projects.
-I'm also interested in web development and game development. I mostly program in my free time and I'm always looking for new projects to work on.
-I started activly programming on here in august 2022.
-
-- 🔭 &nbsp;I’m currently working on a [StatzyGUI](https://github.com/LeonKohli/StatzyGUI)
-- 🌱 &nbsp;I love beeing outside in the nature and I'm a big fan of bikepacking and camping
-- 🤖 &nbsp;I’m currently learning more advanced Python and Java
-- 👨‍💻 &nbsp;Read more about my projects at: [coming soon](https://leonkohli.de)
-
-<img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonKohli&repo=StatzyGUI&layout=compact&theme=tokyonight">
-
----
+<div align="center">
 
 ## 🚀💻 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Dockers](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![VMware](https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Sphinx](https://img.shields.io/badge/-Sphinx-black?style=flat-square&logo=sphinx)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Linux Shell](https://img.shields.io/badge/-Linux_Shell-black?style=flat-square&logo=linux)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+<code><img height="25" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></code>
+<code><img height="25" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></code>
+<code><img height="25" src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab"></code>
+<code><img height="25" src="https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Sphinx-black?style=flat-square&logo=sphinx"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown"></code>
+<code><img height="25" src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"></code>
+<code><img height="25" src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse"></code>
+<code><img height="25" src="https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"></code>
+<code><img height="25" src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Linux_Shell-black?style=flat-square&logo=linux"></code>
+<code><img height="25" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql"></code>
+<code><img height="25" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows"></code>
+<code><img height="25" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"></code>
 
-### Looking forward to learning:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+
+### Excited to learn:
+
+<code><img height="25" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular"></code>
+<code><img height="25" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter"></code>
+
+
+</div>
+
+---
+
+<div align="center">
 
 
 
 ## &#x1f4c8; Git Stats
 
+
+
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=LeonKohli&show_icons=true&theme=tokyonight">  
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=LeonKohli&langs_count=5&layout=compact&theme=tokyonight">
 
+</div>
 
