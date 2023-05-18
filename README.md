@@ -24,7 +24,6 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 - 🤖 I’m currently learning: Advanced Python and Java
 - 👨‍💻 Find more about my projects: [coming soon](https://leonkohli.de)
 
-[![StatzyGUI](https://github-readme-stats.vercel.app/api/pin/?username=LeonKohli&repo=StatzyGUI&layout=compact&theme=tokyonight)](https://github.com/LeonKohli/StatzyGUI)
 
 ---
 
@@ -33,13 +32,15 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## 🚀💻 Technologies & Tools
 
 <code><img height="25" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></code>
 <code><img height="25" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></code>
 <code><img height="25" src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab"></code>
 <code><img height="25" src="https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Sphinx-black?style=flat-square&logo=sphinx"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter"></code>
+
 <code><img height="25" src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown"></code>
 <code><img height="25" src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"></code>
 <code><img height="25" src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code"></code>
@@ -49,12 +50,11 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 <code><img height="25" src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Linux_Shell-black?style=flat-square&logo=linux"></code>
-<code><img height="25" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql"></code>
+<code><img height="25" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql"></code>
 <code><img height="25" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows"></code>
 <code><img height="25" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"></code>
-
-
+<code><img height="25" src="https://img.shields.io/badge/-VBA-black?style=flat-square&logo=microsoft"></code>
 
 ### Excited to learn:
 
@@ -65,7 +65,6 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 <code><img height="25" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter"></code>
-
 
 </div>
 
@@ -83,4 +82,5 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=LeonKohli&langs_count=5&layout=compact&theme=tokyonight">
 
 </div>
+
 
