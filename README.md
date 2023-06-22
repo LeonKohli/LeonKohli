@@ -12,16 +12,19 @@
 [![Instagram: leonkohli](https://img.shields.io/badge/-leonkohli-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](https://www.instagram.com/leonkohli/)
 [![StackOverflow: LeonKohli](https://img.shields.io/badge/-LeonKohli-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/20480270/leonkohli)](https://stackoverflow.com/users/20480270/leonkohli)
 [![GitHub leonkohli](https://img.shields.io/github/followers/leonkohli?label=follow&style=social)](https://github.com/leonkohli)
+[![GitLab leonkohli](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/LeonKohli)
 
 </div>
 
 ---
 
-Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm passionate about Java and Python and I spend most of my time coding, gaining knowledge and working on projects that I love. I'm also enthusiastic about web development and game development. I started my active programming journey here in August 2022.
+Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm passionate about Java and Python and I spend most of my time coding, gaining knowledge and working on projects that I love. I'm also enthusiastic about web development and game development. I started my active programming journey here in August 2022. 🌱 Besides that, you can find me exploring the great outdoors, bikepacking, or enjoying some quiet camping time.
 
-- 🔭 I’m currently working on: [StatzyGUI](https://github.com/LeonKohli/StatzyGUI)
-- 🌱 Things I love: Being in nature, bikepacking, and camping
-- 🤖 I’m currently learning: Advanced Python and Java
+### What I'm working on 🛠️
+
+- 🖥️ StatzyGUI: A GUI-based application for statistical analysis. [StatzyGUI](https://github.com/LeonKohli/StatzyGUI)
+- 🐍 Advanced Python & Java: I'm always learning more!
+- 🌳 Outdoor Coding: Yes, that's a thing.
 - 👨‍💻 Find more about my projects: [coming soon](https://leonkohli.de)
 
 
@@ -29,7 +32,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 
 <div align="center">
 
-## 🚀💻 Technologies & Tools
+## 🚀💻 Technologies & Tools:
 
 <code><img height="25" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk"></code>
@@ -56,7 +59,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 <code><img height="25" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"></code>
 <code><img height="25" src="https://img.shields.io/badge/-VBA-black?style=flat-square&logo=microsoft"></code>
 
-### Excited to learn:
+### 📚 Excited to learn:
 
 <code><img height="25" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular"></code>
@@ -72,6 +75,16 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 
 <div align="center">
 
+
+### My GitLab
+
+You can find my other projects over at GitLab. Check them out [here](https://gitlab.com/LeonKohli).
+
+---
+
+### Let's Connect 🌐
+
+Would love to connect and chat about mutual interests. Feel free to drop a hello [here](https://leonkohli.github.io/)
 
 
 ## &#x1f4c8; Git Stats
