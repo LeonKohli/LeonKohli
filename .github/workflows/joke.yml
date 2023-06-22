@@ -27,12 +27,12 @@ jobs:
           else
               JOKE=$(echo $JOKE_RESPONSE | jq -r '.setup, .delivery | join(" - ")')
           fi
-          
-          echo "::set-output name=joke::$JOKE"
+
+          echo "JOKE=$JOKE" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          JOKE="${{ steps.fetch_joke.outputs.joke }}"
+          JOKE=${{ env.JOKE }}
           sed -i "/<!--joke-start-->/,/<!--joke-end-->/c\<!--joke-start-->\n$JOKE\n<!--joke-end-->" README.md
 
       - name: Commit and push
