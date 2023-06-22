@@ -23,12 +23,15 @@ jobs:
 
           if [ "$JOKE_TYPE" == "single" ]
           then
-              JOKE=$(echo $JOKE_RESPONSE | jq -r '.joke')
+          JOKE=$(echo $JOKE_RESPONSE | jq -r '.joke')
           else
-              JOKE=$(echo $JOKE_RESPONSE | jq -r '.setup, .delivery | join(" - ")')
-          fi
+          SETUP=$(echo $JOKE_RESPONSE | jq -r '.setup')
+          DELIVERY=$(echo $JOKE_RESPONSE | jq -r '.delivery')
+          JOKE="$SETUP - $DELIVERY"
+fi
 
-          echo "JOKE=$JOKE" >> $GITHUB_ENV
+echo "JOKE=$JOKE" >> $GITHUB_ENV
+
 
       - name: Update README
         run: |
