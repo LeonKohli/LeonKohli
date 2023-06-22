@@ -3,7 +3,7 @@ name: Joke Updater
 on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at 00:00
-  workflow_dispatch:   # Allows manual triggering
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update:
@@ -18,9 +18,18 @@ jobs:
       - name: Fetch joke
         id: fetch_joke
         run: |
-          JOKE=$(curl -s https://v2.jokeapi.dev/joke/Programming | jq -r '.setup, .delivery | join(" - ")')
+          JOKE_RESPONSE=$(curl -s https://v2.jokeapi.dev/joke/Programming)
+          JOKE_TYPE=$(echo $JOKE_RESPONSE | jq -r '.type')
+
+          if [ "$JOKE_TYPE" == "single" ]
+          then
+              JOKE=$(echo $JOKE_RESPONSE | jq -r '.joke')
+          else
+              JOKE=$(echo $JOKE_RESPONSE | jq -r '.setup, .delivery | join(" - ")')
+          fi
+          
           echo "::set-output name=joke::$JOKE"
-      
+
       - name: Update README
         run: |
           JOKE="${{ steps.fetch_joke.outputs.joke }}"
