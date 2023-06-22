@@ -1,9 +1,9 @@
 name: Joke Updater
 
 on:
+  workflow_dispatch: # Allows you to run the workflow manually from the GitHub Actions tab
   schedule:
     - cron: '0 0 * * *' # Runs every day at 00:00
-  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update:
@@ -20,23 +20,22 @@ jobs:
         run: |
           JOKE_RESPONSE=$(curl -s https://v2.jokeapi.dev/joke/Programming)
           JOKE_TYPE=$(echo $JOKE_RESPONSE | jq -r '.type')
-
+          
           if [ "$JOKE_TYPE" == "single" ]
           then
-          JOKE=$(echo $JOKE_RESPONSE | jq -r '.joke')
+              JOKE=$(echo $JOKE_RESPONSE | jq -r '.joke')
           else
-          SETUP=$(echo $JOKE_RESPONSE | jq -r '.setup')
-          DELIVERY=$(echo $JOKE_RESPONSE | jq -r '.delivery')
-          JOKE="$SETUP - $DELIVERY"
-fi
+              SETUP=$(echo $JOKE_RESPONSE | jq -r '.setup')
+              DELIVERY=$(echo $JOKE_RESPONSE | jq -r '.delivery')
+              JOKE="$SETUP - $DELIVERY"
+          fi
 
-echo "JOKE=$JOKE" >> $GITHUB_ENV
-
-
+          echo "JOKE=$JOKE" >> $GITHUB_ENV
+      
       - name: Update README
         run: |
-          sed -i "/<!--joke-start-->/,/<!--joke-end-->/c\<!--joke-start-->\nJOKE_PLACEHOLDER\n<!--joke-end-->" README.md
-          sed -i "s|JOKE_PLACEHOLDER|${{ env.JOKE }}|g" README.md
+          JOKE="${{ env.JOKE }}"
+          sed -i "/<!--joke-start-->/,/<!--joke-end-->/c\<!--joke-start-->\n$JOKE\n<!--joke-end-->" README.md
 
       - name: Commit and push
         run: |
