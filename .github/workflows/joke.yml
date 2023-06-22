@@ -32,8 +32,8 @@ jobs:
 
       - name: Update README
         run: |
-          JOKE=${{ env.JOKE }}
-          sed -i "/<!--joke-start-->/,/<!--joke-end-->/c\<!--joke-start-->\n$JOKE\n<!--joke-end-->" README.md
+          sed -i "/<!--joke-start-->/,/<!--joke-end-->/c\<!--joke-start-->\nJOKE_PLACEHOLDER\n<!--joke-end-->" README.md
+          sed -i "s|JOKE_PLACEHOLDER|${{ env.JOKE }}|g" README.md
 
       - name: Commit and push
         run: |
