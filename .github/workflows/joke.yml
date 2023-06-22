@@ -1,0 +1,30 @@
+name: Joke Updater
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at 00:00
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Fetch joke
+        id: fetch_joke
+        run: |
+          JOKE=$(curl -s https://v2.jokeapi.dev/joke/Programming | jq -r '.setup, .delivery | @text')
+          echo "::set-output name=joke::$JOKE"
+      
+      - name: Update README
+        run: |
+          JOKE="${{ steps.fetch_joke.outputs.joke }}"
+          sed -i "/<!--joke-start-->/,/<!--joke-end-->/c\<!--joke-start-->\n$JOKE\n<!--joke-end-->" README.md
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Updated Joke"
+          git push
