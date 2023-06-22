@@ -9,12 +9,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Install dependencies
+        run: sudo apt-get install -y jq
+
       - uses: actions/checkout@v2
 
       - name: Fetch joke
         id: fetch_joke
         run: |
-          JOKE=$(curl -s https://v2.jokeapi.dev/joke/Programming | jq -r '.setup, .delivery | @text')
+          JOKE=$(curl -s https://v2.jokeapi.dev/joke/Programming | jq -r '.setup, .delivery | join(" - ")')
           echo "::set-output name=joke::$JOKE"
       
       - name: Update README
@@ -26,5 +29,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -am "Updated Joke"
+          git add README.md
+          git commit -m "Updated Joke"
           git push
