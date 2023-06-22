@@ -86,6 +86,13 @@ You can find my other projects over at GitLab. Check them out [here](https://git
 
 Would love to connect and chat about mutual interests. Feel free to drop a hello [here](https://leonkohli.github.io/)
 
+## Daily Joke
+
+<!--joke-start-->
+
+<!--joke-end-->
+
+
 
 ## &#x1f4c8; Git Stats
 
