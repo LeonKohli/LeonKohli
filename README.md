@@ -89,7 +89,7 @@ Would love to connect and chat about mutual interests. Feel free to drop a hello
 ## Daily Joke
 
 <!--joke-start-->
-Why do Java programmers hate communism? - They don't want to live in a classless society.
+Why did the programmer jump on the table? - Because debug was on his screen.
 <!--joke-end-->
 
 
