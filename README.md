@@ -89,7 +89,7 @@ Would love to connect and chat about mutual interests. Feel free to drop a hello
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer jump on the table? - Because debug was on his screen.
+.NET developers are picky when it comes to food. - They only like chicken NuGet.
 <!--joke-end-->
 
 
