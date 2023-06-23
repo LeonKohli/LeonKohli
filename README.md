@@ -89,7 +89,7 @@ Would love to connect and chat about mutual interests. Feel free to drop a hello
 ## Daily Joke
 
 <!--joke-start-->
-.NET developers are picky when it comes to food. - They only like chicken NuGet.
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 <!--joke-end-->
 
 
