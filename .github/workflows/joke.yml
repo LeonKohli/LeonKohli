@@ -3,7 +3,7 @@ name: Joke Updater
 on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at 00:00
-  workflow_dispatch: # Allows manual triggering of the workflow
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Install dependencies
-        run: sudo apt-get install -y jq curl
+        run: sudo apt-get install -y jq
 
       - uses: actions/checkout@v2
 
@@ -20,16 +20,16 @@ jobs:
         run: |
           JOKE_RESPONSE=$(curl -s https://v2.jokeapi.dev/joke/Programming)
           JOKE_TYPE=$(echo $JOKE_RESPONSE | jq -r '.type')
+
           if [ "$JOKE_TYPE" == "single" ]
           then
-              JOKE=$(echo $JOKE_RESPONSE | jq -r '.joke' | sed 's/"/\\"/g')
+              JOKE=$(echo $JOKE_RESPONSE | jq -r '.joke')
           else
-              SETUP=$(echo $JOKE_RESPONSE | jq -r '.setup' | sed 's/"/\\"/g')
-              DELIVERY=$(echo $JOKE_RESPONSE | jq -r '.delivery' | sed 's/"/\\"/g')
-              JOKE="$SETUP - $DELIVERY"
+              JOKE=$(echo $JOKE_RESPONSE | jq -r '.setup, .delivery | join(" - ")')
           fi
-          echo "JOKE=\"$JOKE\"" >> $GITHUB_ENV
-      
+
+          echo "JOKE=$JOKE" >> $GITHUB_ENV
+
       - name: Update README
         run: |
           JOKE=${{ env.JOKE }}
@@ -39,9 +39,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git stash --include-untracked # Stash any changes
-          git pull --rebase
-          git stash pop || true # Apply stashed changes, don't fail if there's a conflict
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Updated Joke"
+          git commit -m "Updated Joke"
           git push
