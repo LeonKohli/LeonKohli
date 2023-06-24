@@ -89,7 +89,7 @@ Would love to connect and chat about mutual interests. Feel free to drop a hello
 ## Daily Joke
 
 <!--joke-start-->
-Why is Linux safe? - Hackers peak through Windows only.
+Your mama's so FAT she can't save files bigger than 4GB.
 <!--joke-end-->
 
 
