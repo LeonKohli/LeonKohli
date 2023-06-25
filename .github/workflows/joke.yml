@@ -37,12 +37,7 @@ jobs:
       - name: Update README
         run: |
           JOKE="${{ env.JOKE }}"
-          awk '/<!--joke-start-->/ {exit}' README.md > tmp.md
-          echo "<!--joke-start-->" >> tmp.md
-          echo "$JOKE" >> tmp.md
-          echo "<!--joke-end-->" >> tmp.md
-          awk '/<!--joke-end-->/ {flag=1} flag {print}' README.md >> tmp.md
-          mv tmp.md README.md
+          perl -i -p0e 's|<!--joke-start-->.*?<!--joke-end-->|<!--joke-start-->\n'"$JOKE"'\n<!--joke-end-->|se' README.md
         shell: bash
 
       - name: Commit and push
