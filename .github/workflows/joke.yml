@@ -44,6 +44,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git fetch origin main:main
           git pull --rebase
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Updated Joke"
