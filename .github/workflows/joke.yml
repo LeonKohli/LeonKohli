@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Install dependencies
-        run: sudo apt-get install -y jq curl
+        run: sudo apt-get install -y jq curl perl
 
       - uses: actions/checkout@v2
 
@@ -30,15 +30,12 @@ jobs:
               DELIVERY=$(jq -r '.delivery' <<< "$JOKE_RESPONSE" | sed 's/"/\\"/g; s/\r//g; s/\n/ /g')
               JOKE="$SETUP - $DELIVERY"
           fi
-          printf -v quoted '%q' "$JOKE"
-          echo "JOKE=$quoted" >> $GITHUB_ENV
-        shell: bash
+          echo "::set-output name=joke::$JOKE"
 
       - name: Update README
         run: |
-          JOKE="${{ env.JOKE }}"
-          perl -i -p0e 's|<!--joke-start-->.*?<!--joke-end-->|<!--joke-start-->\n'"$JOKE"'\n<!--joke-end-->|se' README.md
-        shell: bash
+          JOKE="${{ steps.fetch_joke.outputs.joke }}"
+          perl -i -p0e "s|<!--joke-start-->.*?<!--joke-end-->|<!--joke-start-->\n$JOKE\n<!--joke-end-->|se" README.md
 
       - name: Commit and push
         run: |
@@ -51,4 +48,3 @@ jobs:
           git checkout main
           git merge tmp --no-edit
           git push
-        shell: bash
