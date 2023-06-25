@@ -89,7 +89,7 @@ Would love to connect and chat about mutual interests. Feel free to drop a hello
 ## Daily Joke
 
 <!--joke-start-->
-Why does no one like SQLrillex? - He keeps dropping the database.
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 <!--joke-end-->
 
