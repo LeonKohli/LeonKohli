@@ -35,8 +35,7 @@ jobs:
 
       - name: Update README
         run: |
-          JOKE=$(cat JOKE.txt)
-          perl -i -p0e 's|<!--joke-start-->.*?<!--joke-end-->|<!--joke-start-->\n$ENV{JOKE}\n<!--joke-end-->|s' README.md
+          perl -i -p0e 'BEGIN{open($joke_file, "<", "JOKE.txt"); $joke = <$joke_file>; close($joke_file);} s|<!--joke-start-->.*?<!--joke-end-->|<!--joke-start-->\n$joke\n<!--joke-end-->|s' README.md
         shell: bash
 
       - name: Commit and push
