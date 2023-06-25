@@ -30,12 +30,15 @@ jobs:
               DELIVERY=$(jq -r '.delivery' <<< "$JOKE_RESPONSE" | sed 's/"/\\"/g; s/\r//g; s/\n/ /g')
               JOKE="$SETUP - $DELIVERY"
           fi
-          echo "::set-output name=joke::$JOKE"
+          JOKE=$(echo $JOKE | sed 's/\\//g') # Removes the backslashes from the JOKE string
+          echo "JOKE=$JOKE" >> $GITHUB_ENV
+        shell: bash
 
       - name: Update README
         run: |
-          JOKE="${{ steps.fetch_joke.outputs.joke }}"
-          perl -i -p0e "s|<!--joke-start-->.*?<!--joke-end-->|<!--joke-start-->\n$JOKE\n<!--joke-end-->|se" README.md
+          JOKE="${{ env.JOKE }}"
+          perl -i -p0e "s|<!--joke-start-->.*?<!--joke-end-->|<!--joke-start-->\n$JOKE\n<!--joke-end-->|s" README.md
+        shell: bash
 
       - name: Commit and push
         run: |
@@ -48,3 +51,4 @@ jobs:
           git checkout main
           git merge tmp --no-edit
           git push
+        shell: bash
