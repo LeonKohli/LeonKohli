@@ -89,7 +89,7 @@ Would love to connect and chat about mutual interests. Feel free to drop a hello
 ## Daily Joke
 
 <!--joke-start-->
-The\ glass\ is\ neither\ half-full\ nor\ half-empty\,\ the\ glass\ is\ twice\ as\ big\ as\ it\ needs\ to\ be.
+Why did the database administrator leave his wife? - She had one-to-many relationships.
 <!--joke-end-->
 
 
