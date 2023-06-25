@@ -89,15 +89,7 @@ Would love to connect and chat about mutual interests. Feel free to drop a hello
 ## Daily Joke
 
 <!--joke-start-->
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Your mama's so FAT she can't save files bigger than 4GB.
-=======
-How can you tell an extroverted programmer? - He looks at YOUR shoes when he's talking.
->>>>>>> Stashed changes
-=======
-What is the best prefix for global variables? - //
->>>>>>> Stashed changes
+
 <!--joke-end-->
 
 
