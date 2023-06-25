@@ -30,13 +30,12 @@ jobs:
               DELIVERY=$(jq -r '.delivery' <<< "$JOKE_RESPONSE" | sed 's/\r//g; s/\n/ /g')
               JOKE="$SETUP - $DELIVERY"
           fi
-          JOKE=$(echo -n "$JOKE" | base64)
-          echo "JOKE=$JOKE" >> $GITHUB_ENV
+          echo "$JOKE" > JOKE.txt
         shell: bash
 
       - name: Update README
         run: |
-          JOKE="$(echo -n "${{ env.JOKE }}" | base64 --decode)"
+          JOKE=$(cat JOKE.txt)
           perl -i -p0e 's|<!--joke-start-->.*?<!--joke-end-->|<!--joke-start-->\n$ENV{JOKE}\n<!--joke-end-->|s' README.md
         shell: bash
 
