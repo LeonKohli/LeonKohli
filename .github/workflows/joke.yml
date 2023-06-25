@@ -37,7 +37,7 @@ jobs:
       - name: Update README
         run: |
           JOKE="${{ env.JOKE }}"
-          sed -i.bak "/<!--joke-start-->/,/<!--joke-end-->/c\<!--joke-start-->\n$JOKE\n<!--joke-end-->" README.md
+          sed -i.bak "|<!--joke-start-->|,|<!--joke-end-->|c|<!--joke-start-->\n$JOKE\n<!--joke-end-->" README.md
         shell: bash
 
       - name: Commit and push
