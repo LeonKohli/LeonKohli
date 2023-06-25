@@ -37,7 +37,12 @@ jobs:
       - name: Update README
         run: |
           JOKE="${{ env.JOKE }}"
-          sed -i.bak "|<!--joke-start-->|,|<!--joke-end-->|c|<!--joke-start-->\n$JOKE\n<!--joke-end-->" README.md
+          awk '/<!--joke-start-->/ {exit}' README.md > tmp.md
+          echo "<!--joke-start-->" >> tmp.md
+          echo "$JOKE" >> tmp.md
+          echo "<!--joke-end-->" >> tmp.md
+          awk '/<!--joke-end-->/ {flag=1} flag {print}' README.md >> tmp.md
+          mv tmp.md README.md
         shell: bash
 
       - name: Commit and push
@@ -49,6 +54,6 @@ jobs:
           git checkout -b tmp
           git fetch origin main
           git checkout main
-          git rebase tmp
+          git merge tmp --no-edit
           git push
         shell: bash
