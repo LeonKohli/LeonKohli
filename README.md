@@ -89,7 +89,7 @@ Would love to connect and chat about mutual interests. Feel free to drop a hello
 ## Daily Joke
 
 <!--joke-start-->
-ASCII silly question, get a silly ANSI.
+Why does no one like SQLrillex? - He keeps dropping the database.
 
 <!--joke-end-->
 
