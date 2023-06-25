@@ -18,30 +18,32 @@ jobs:
       - name: Fetch joke
         id: fetch_joke
         run: |
+          set -e
+          set -o pipefail
           JOKE_RESPONSE=$(curl -s https://v2.jokeapi.dev/joke/Programming)
-          JOKE_TYPE=$(echo $JOKE_RESPONSE | jq -r '.type')
+          JOKE_TYPE=$(jq -r '.type' <<< "$JOKE_RESPONSE")
           if [ "$JOKE_TYPE" == "single" ]
           then
-              JOKE=$(echo $JOKE_RESPONSE | jq -r '.joke' | sed 's/"/\\"/g')
+              JOKE=$(jq -r '.joke' <<< "$JOKE_RESPONSE" | sed 's/"/\\"/g; s/\r//g; s/\n/ /g')
           else
-              SETUP=$(echo $JOKE_RESPONSE | jq -r '.setup' | sed 's/"/\\"/g')
-              DELIVERY=$(echo $JOKE_RESPONSE | jq -r '.delivery' | sed 's/"/\\"/g')
+              SETUP=$(jq -r '.setup' <<< "$JOKE_RESPONSE" | sed 's/"/\\"/g; s/\r//g; s/\n/ /g')
+              DELIVERY=$(jq -r '.delivery' <<< "$JOKE_RESPONSE" | sed 's/"/\\"/g; s/\r//g; s/\n/ /g')
               JOKE="$SETUP - $DELIVERY"
           fi
-          echo "::set-output name=joke::$JOKE"
+          echo "JOKE=\"$JOKE\"" >> $GITHUB_ENV
         shell: bash
+
       - name: Update README
         run: |
-          JOKE=${{ steps.fetch_joke.outputs.joke }}
-          sed -i "/<!--joke-start-->/,/<!--joke-end-->/c\<!--joke-start-->\n$JOKE\n<!--joke-end-->" README.md
+          JOKE="${{ env.JOKE }}"
+          sed -i.bak "/<!--joke-start-->/,/<!--joke-end-->/c\<!--joke-start-->\n$JOKE\n<!--joke-end-->" README.md
+        shell: bash
 
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git stash --include-untracked # Stash any changes
-          git pull --rebase
-          git stash pop || true # Apply stashed changes, don't fail if there's a conflict
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Updated Joke"
           git push
+        shell: bash
