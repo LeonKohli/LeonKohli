@@ -31,7 +31,6 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ---
 
 <div align="center">
----
   
 ## Daily Joke
 
