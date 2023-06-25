@@ -30,7 +30,7 @@ jobs:
               DELIVERY=$(jq -r '.delivery' <<< "$JOKE_RESPONSE" | sed 's/\r//g; s/\n/ /g')
               JOKE="$SETUP - $DELIVERY"
           fi
-          JOKE=$(printf "%q" "$JOKE")
+          JOKE=$(echo -n "$JOKE" | xargs -0)
           echo "JOKE=$JOKE" >> $GITHUB_ENV
         shell: bash
 
