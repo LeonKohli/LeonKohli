@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Install dependencies
-        run: sudo apt-get install -y jq curl python3
+        run: sudo apt-get install -y jq curl perl
 
       - uses: actions/checkout@v2
 
@@ -24,29 +24,20 @@ jobs:
           JOKE_TYPE=$(jq -r '.type' <<< "$JOKE_RESPONSE")
           if [ "$JOKE_TYPE" == "single" ]
           then
-              JOKE=$(jq -r '.joke' <<< "$JOKE_RESPONSE")
+              JOKE=$(jq -r '.joke' <<< "$JOKE_RESPONSE" | sed 's/\r//g; s/\n/ /g')
           else
-              SETUP=$(jq -r '.setup' <<< "$JOKE_RESPONSE")
-              DELIVERY=$(jq -r '.delivery' <<< "$JOKE_RESPONSE")
+              SETUP=$(jq -r '.setup' <<< "$JOKE_RESPONSE" | sed 's/\r//g; s/\n/ /g')
+              DELIVERY=$(jq -r '.delivery' <<< "$JOKE_RESPONSE" | sed 's/\r//g; s/\n/ /g')
               JOKE="$SETUP - $DELIVERY"
           fi
+          JOKE=$(printf "%q" "$JOKE")
           echo "JOKE=$JOKE" >> $GITHUB_ENV
         shell: bash
 
       - name: Update README
         run: |
-          JOKE="${{ env.JOKE }}"
-          python3 -c '
-import re
-
-with open("README.md", "r") as file:
-  content = file.read()
-
-content = re.sub(r"<!--joke-start-->.*<!--joke-end-->", "<!--joke-start-->\n" + "\"" + JOKE + "\"\n" + "<!--joke-end-->", content, flags=re.DOTALL)
-
-with open("README.md", "w") as file:
-  file.write(content)
-'
+          export JOKE="${{ env.JOKE }}"
+          perl -i -p0e 's|<!--joke-start-->.*?<!--joke-end-->|<!--joke-start-->\n$ENV{JOKE}\n<!--joke-end-->|s' README.md
         shell: bash
 
       - name: Commit and push
