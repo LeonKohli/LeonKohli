@@ -30,6 +30,9 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 
 ---
 
+<div align="center">
+---
+  
 ## Daily Joke
 
 <!--joke-start-->
@@ -38,8 +41,6 @@ There are only 10 kinds of people in this world: those who know binary and those
 <!--joke-end-->
 
 ---
-
-<div align="center">
 
 ## 🚀💻 Technologies & Tools:
 
