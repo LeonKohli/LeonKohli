@@ -36,17 +36,17 @@ jobs:
       - name: Update README
         run: |
           JOKE="${{ env.JOKE }}"
-          python3 -c "
+          python3 -c '
 import re
 
-with open('README.md', 'r') as file:
+with open("README.md", "r") as file:
   content = file.read()
 
-content = re.sub(r'<!--joke-start-->.*<!--joke-end-->', '<!--joke-start-->\n' + \"$JOKE\" + '\n<!--joke-end-->', content, flags=re.DOTALL)
+content = re.sub(r"<!--joke-start-->.*<!--joke-end-->", "<!--joke-start-->\n" + "\"" + JOKE + "\"\n" + "<!--joke-end-->", content, flags=re.DOTALL)
 
-with open('README.md', 'w') as file:
+with open("README.md", "w") as file:
   file.write(content)
-"
+'
         shell: bash
 
       - name: Commit and push
