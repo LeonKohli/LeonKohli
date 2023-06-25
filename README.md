@@ -30,6 +30,15 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 
 ---
 
+## Daily Joke
+
+<!--joke-start-->
+There are only 10 kinds of people in this world: those who know binary and those who don't.
+
+<!--joke-end-->
+
+---
+
 <div align="center">
 
 ## 🚀💻 Technologies & Tools:
@@ -85,15 +94,6 @@ You can find my other projects over at GitLab. Check them out [here](https://git
 ### Let's Connect 🌐
 
 Would love to connect and chat about mutual interests. Feel free to drop a hello [here](https://leonkohli.github.io/)
-
-## Daily Joke
-
-<!--joke-start-->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
-
-<!--joke-end-->
-
-
 
 ## &#x1f4c8; Git Stats
 
