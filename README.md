@@ -89,7 +89,7 @@ Would love to connect and chat about mutual interests. Feel free to drop a hello
 ## Daily Joke
 
 <!--joke-start-->
-why do python programmers wear glasses? - Because they can't C.
+The\ glass\ is\ neither\ half-full\ nor\ half-empty\,\ the\ glass\ is\ twice\ as\ big\ as\ it\ needs\ to\ be.
 <!--joke-end-->
 
 
