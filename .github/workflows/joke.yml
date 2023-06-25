@@ -24,13 +24,13 @@ jobs:
           JOKE_TYPE=$(jq -r '.type' <<< "$JOKE_RESPONSE")
           if [ "$JOKE_TYPE" == "single" ]
           then
-              JOKE=$(jq -r '.joke' <<< "$JOKE_RESPONSE" | sed 's/"/\\"/g; s/\r//g; s/\n/ /g')
+              JOKE=$(jq -r '.joke' <<< "$JOKE_RESPONSE" | sed 's/\r//g; s/\n/ /g')
           else
-              SETUP=$(jq -r '.setup' <<< "$JOKE_RESPONSE" | sed 's/"/\\"/g; s/\r//g; s/\n/ /g')
-              DELIVERY=$(jq -r '.delivery' <<< "$JOKE_RESPONSE" | sed 's/"/\\"/g; s/\r//g; s/\n/ /g')
+              SETUP=$(jq -r '.setup' <<< "$JOKE_RESPONSE" | sed 's/\r//g; s/\n/ /g')
+              DELIVERY=$(jq -r '.delivery' <<< "$JOKE_RESPONSE" | sed 's/\r//g; s/\n/ /g')
               JOKE="$SETUP - $DELIVERY"
           fi
-          JOKE=$(echo $JOKE | sed 's/\\//g') # Removes the backslashes from the JOKE string
+          JOKE=$(printf "%q" "$JOKE")
           echo "JOKE=$JOKE" >> $GITHUB_ENV
         shell: bash
 
