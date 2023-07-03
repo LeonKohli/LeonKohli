@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why are modern programming languages so materialistic? - Because they are object-oriented.
+Why did the Python programmer not respond to the foreign mails he got? - Because his interpreter was busy collecting garbage.
 
 <!--joke-end-->
 
