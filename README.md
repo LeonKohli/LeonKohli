@@ -35,7 +35,9 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 
 <!--joke-end-->
 
