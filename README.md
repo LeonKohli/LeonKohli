@@ -35,9 +35,9 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing...
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 
 <!--joke-end-->
 
