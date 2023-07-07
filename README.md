@@ -35,9 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+Hey baby I wish your name was asynchronous... - ... so you'd give me a callback.
 
 <!--joke-end-->
 
