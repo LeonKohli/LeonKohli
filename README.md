@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 <!--joke-end-->
 
