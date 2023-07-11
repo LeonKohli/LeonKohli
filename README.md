@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+Genders are a lot like booleans. - There's only two of them.
 
 <!--joke-end-->
 
