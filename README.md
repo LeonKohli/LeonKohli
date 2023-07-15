@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+What is a dying programmer's last program? - Goodbye, world!
 
 <!--joke-end-->
 
