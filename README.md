@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-What is a dying programmer's last program? - Goodbye, world!
+Why do programmers prefer using the dark mode? - Because light attracts bugs.
 
 <!--joke-end-->
 
