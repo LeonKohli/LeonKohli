@@ -22,7 +22,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 
 ### What I'm working on 🛠️
 
-- 🖥️ StatzyGUI: A GUI-based application for statistical analysis. [StatzyGUI](https://github.com/LeonKohli/StatzyGUI)
+- 🖥️ StatzyGUI: A GUI-based application for statistical analysis. [Mantis]([https://github.com/LeonKohli/StatzyGUI](https://gitlab.com/opendata-apps/mantis))
 - 🐍 Advanced Python & Java: I'm always learning more!
 - 🌳 Outdoor Coding: Yes, that's a thing.
 - 👨‍💻 Find more about my projects: [coming soon](https://leonkohli.de)
