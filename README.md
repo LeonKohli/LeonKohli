@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why are modern programming languages so materialistic? - Because they are object-oriented.
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 
 <!--joke-end-->
 
