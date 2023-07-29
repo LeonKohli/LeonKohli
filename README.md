@@ -22,7 +22,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 
 ### What I'm working on 🛠️
 
-- 🖥️ [Mantis](gottesanbeterin-gesucht.de) Mitmachprojekt: A web application to report Mantis religiose in Germany  [Mantis](https://gitlab.com/opendata-apps/mantis)
+- 🖥️ [Mantis](https://gottesanbeterin-gesucht.de) Mitmachprojekt: A web application to report Mantis religiose in Germany  [Mantis](https://gitlab.com/opendata-apps/mantis)
 - 🐍 Advanced Python & Javascript: I'm always learning more!
 - 🌳 Outdoor Coding: Yes, that's a thing.
 - 👨‍💻 Find more about my projects: [coming soon](https://leonkohli.de)
