@@ -52,29 +52,26 @@ What do you call a group of 8 Hobbits? - A Hobbyte.
 <code><img height="25" src="https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Sphinx-black?style=flat-square&logo=sphinx"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter"></code>
-
+<code><img height="25" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown"></code>
 <code><img height="25" src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"></code>
+<code><img height="25" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
 <code><img height="25" src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse"></code>
-<code><img height="25" src="https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"></code>
 <code><img height="25" src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Linux_Shell-black?style=flat-square&logo=linux"></code>
 <code><img height="25" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql"></code>
 <code><img height="25" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows"></code>
 <code><img height="25" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"></code>
 <code><img height="25" src="https://img.shields.io/badge/-VBA-black?style=flat-square&logo=microsoft"></code>
 
 ### 📚 Excited to learn:
 
-<code><img height="25" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
+<code><img height="25" src="https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular"></code>
 <code><img height="25" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter"></code>
 
