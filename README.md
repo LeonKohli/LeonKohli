@@ -12,7 +12,8 @@
 [![Instagram: leonkohli](https://img.shields.io/badge/-leonkohli-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](https://www.instagram.com/leonkohli/)
 [![StackOverflow: LeonKohli](https://img.shields.io/badge/-LeonKohli-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/20480270/leonkohli)](https://stackoverflow.com/users/20480270/leonkohli)
 [![GitHub leonkohli](https://img.shields.io/github/followers/leonkohli?label=follow&style=social)](https://github.com/leonkohli)
-[![GitLab leonkohli](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/LeonKohli)
+[![GitLab: LeonKohli](https://img.shields.io/badge/-LeonKohli-FCA121?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/LeonKohli)](https://gitlab.com/LeonKohli)
+
 
 </div>
 
