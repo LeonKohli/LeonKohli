@@ -36,7 +36,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 <!--joke-end-->
 
