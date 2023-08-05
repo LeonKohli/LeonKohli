@@ -13,6 +13,7 @@
 [![StackOverflow: LeonKohli](https://img.shields.io/badge/-LeonKohli-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/20480270/leonkohli)](https://stackoverflow.com/users/20480270/leonkohli)
 [![GitHub leonkohli](https://img.shields.io/github/followers/leonkohli?label=follow&style=social)](https://github.com/leonkohli)
 [![GitLab: LeonKohli](https://img.shields.io/badge/-LeonKohli-FCA121?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/LeonKohli)](https://gitlab.com/LeonKohli)
+[![Lead Developer and Maintainer: Gottesanbeterin-Gesucht.de](https://img.shields.io/badge/-Lead%20Developer%20and%20Maintainer-orange)](https://gottesanbeterin-gesucht.de)
 
 
 </div>
