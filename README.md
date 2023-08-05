@@ -36,7 +36,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+Why did the functional programmer get thrown out of school? - Because he refused to take classes.
 
 <!--joke-end-->
 
