@@ -20,7 +20,8 @@
 
 ---
 
-Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm passionate about Java and Python and I spend most of my time coding, gaining knowledge and working on projects that I love. I'm also enthusiastic about web development and game development. I started my active programming journey here in August 2022. 🌱 Besides that, you can find me exploring the great outdoors, bikepacking, or enjoying some quiet camping time.
+Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm passionate about Java and Python and I spend most of my time coding, gaining knowledge, and working on projects that I love, including my role as Lead Developer and Maintainer of the [Mantis Project](https://gottesanbeterin-gesucht.de). I'm also enthusiastic about web development and game development. I started my active programming journey here in August 2022. 🌱 Besides that, you can find me exploring the great outdoors, bikepacking, or enjoying some quiet camping time.
+
 
 ### What I'm working on 🛠️
 
