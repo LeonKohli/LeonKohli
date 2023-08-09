@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+Why did the programmer jump on the table? - Because debug was on his screen.
 
 <!--joke-end-->
 
