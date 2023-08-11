@@ -38,7 +38,8 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why are Assembly programmers always soaking wet? - They work below C-level.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 
 <!--joke-end-->
 
