@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why do Java programmers hate communism? - They don't want to live in a classless society.
+How can you tell an extroverted programmer? - He looks at YOUR shoes when he's talking.
 
 <!--joke-end-->
 
