@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-How can you tell an extroverted programmer? - He looks at YOUR shoes when he's talking.
+Why did the Python data scientist get arrested at customs? - She was caught trying to import pandas!
 
 <!--joke-end-->
 
