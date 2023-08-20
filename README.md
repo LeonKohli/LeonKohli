@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 <!--joke-end-->
 
