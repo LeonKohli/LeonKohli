@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
+Genders are a lot like booleans. - There's only two of them.
 
 <!--joke-end-->
 
