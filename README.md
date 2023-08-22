@@ -38,7 +38,9 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Genders are a lot like booleans. - There's only two of them.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 
 <!--joke-end-->
 
