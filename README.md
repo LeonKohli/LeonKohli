@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+Why do programmers prefer using the dark mode? - Because light attracts bugs.
 
 <!--joke-end-->
 
