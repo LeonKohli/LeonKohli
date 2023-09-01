@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Hey, wanna hear a joke? - Parsing HTML with regex.
+What are bits? - Tiny things left when you drop your computer down the stairs.
 
 <!--joke-end-->
 
