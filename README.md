@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-What are bits? - Tiny things left when you drop your computer down the stairs.
+Why did the database administrator leave his wife? - She had one-to-many relationships.
 
 <!--joke-end-->
 
