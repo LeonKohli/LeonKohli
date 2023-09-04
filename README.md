@@ -38,7 +38,10 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Hey baby I wish your name was asynchronous... - ... so you'd give me a callback.
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 
 <!--joke-end-->
 
