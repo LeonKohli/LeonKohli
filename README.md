@@ -38,10 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+So what's a set of predefined steps the government might take to preserve the environment? - An Al-Gore-ithm.
 
 <!--joke-end-->
 
