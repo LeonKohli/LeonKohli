@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer quit his job? - Because he didn't get arrays.
+How do you know God is a shitty programmer? - He wrote the OS for an entire universe, but didn't leave a single useful comment.
 
 <!--joke-end-->
 
