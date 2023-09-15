@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+Why do programmers prefer using the dark mode? - Because light attracts bugs.
 
 <!--joke-end-->
 
