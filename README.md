@@ -38,10 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+So what's a set of predefined steps the government might take to preserve the environment? - An Al-Gore-ithm.
 
 <!--joke-end-->
 
