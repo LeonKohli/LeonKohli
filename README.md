@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+The generation of random numbers is too important to be left to chance.
 
 <!--joke-end-->
 
