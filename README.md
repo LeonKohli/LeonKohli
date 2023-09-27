@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why is Linux safe? - Hackers peak through Windows only.
+Why did the web developer walk out of a resturant in disgust? - The seating was laid out in tables.
 
 <!--joke-end-->
 
