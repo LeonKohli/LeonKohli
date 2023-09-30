@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-The generation of random numbers is too important to be left to chance.
+Why do programmers wear glasses? - Because they need to C#
 
 <!--joke-end-->
 
