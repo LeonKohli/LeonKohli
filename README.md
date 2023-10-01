@@ -38,7 +38,10 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers wear glasses? - Because they need to C#
+Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 
 <!--joke-end-->
 
