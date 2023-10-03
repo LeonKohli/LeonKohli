@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why did the functional programmer get thrown out of school? - Because he refused to take classes.
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 
 <!--joke-end-->
 
