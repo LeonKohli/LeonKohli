@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-"We messed up the keming again guys."
+Why did the Python data scientist get arrested at customs? - She was caught trying to import pandas!
 
 <!--joke-end-->
 
