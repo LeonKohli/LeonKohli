@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 
 <!--joke-end-->
 
