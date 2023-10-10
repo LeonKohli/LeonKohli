@@ -38,7 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why did the database administrator leave his wife? - She had one-to-many relationships.
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 
 <!--joke-end-->
 
