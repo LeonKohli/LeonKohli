@@ -54,13 +54,11 @@ Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
 <code><img height="25" src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab"></code>
 <code><img height="25" src="https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Sphinx-black?style=flat-square&logo=sphinx"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown"></code>
 <code><img height="25" src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"></code>
 <code><img height="25" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
-<code><img height="25" src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"></code>
 <code><img height="25" src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"></code>
