@@ -1,12 +1,13 @@
 <div align="center">
-
+  
+<!-- Leon Kohlhaussen / Leon Kohlhaußen / LeonKohli / Leon Kohli -->
 # HelloWorld <a href="https://leonkohli.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm [Leon](https://leonkohli.github.io/) 
 
 </div>
 
 <div align="center">
 
-[![Linkedin: LeonKohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](https://de.linkedin.com/in/leon-kohlhaußen-72b9041aa)
+[![Linkedin: Leon Kohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](https://de.linkedin.com/in/leon-kohlhaußen-72b9041aa)
 [![Telegram](https://img.shields.io/badge/LeonKohli-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/LeonKohli)
 [![Twitter Follow](https://img.shields.io/twitter/follow/leonkohli?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/leonkohli)
 [![Instagram: leonkohli](https://img.shields.io/badge/-leonkohli-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](https://www.instagram.com/leonkohli/)
@@ -20,7 +21,7 @@
 
 ---
 
-Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm passionate about Java and Python and I spend most of my time coding, gaining knowledge, and working on projects that I love, including my role as Lead Developer and Maintainer of the [Mantis Project](https://gottesanbeterin-gesucht.de). I'm also enthusiastic about web development and game development. I started my active programming journey here in August 2022. 🌱 Besides that, you can find me exploring the great outdoors, bikepacking, or enjoying some quiet camping time.
+Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm passionate about Java and Python and I spend most of my time coding, gaining knowledge, and working on projects that I love, including my role as Lead Developer and Maintainer of the [Mantis Project/ Gottesanbeterin gesucht Project](https://gottesanbeterin-gesucht.de). I'm also enthusiastic about web development and game development. I started my active programming journey here in August 2022. 🌱 Besides that, you can find me exploring the great outdoors, bikepacking, or enjoying some quiet camping time.
 
 
 ### What I'm working on 🛠️
