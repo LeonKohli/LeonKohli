@@ -38,11 +38,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
 
 <!--joke-end-->
 
