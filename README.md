@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers confuse Halloween and Christmas? - Because Oct 31 = Dec 25
+ASCII silly question, get a silly ANSI.
 
 <!--joke-end-->
 
