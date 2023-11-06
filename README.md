@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-ASCII silly question, get a silly ANSI.
+How can you tell an extroverted programmer? - He looks at YOUR shoes when he's talking.
 
 <!--joke-end-->
 
