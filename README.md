@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why do they call it hyper terminal? - Too much Java.
+why do python programmers wear glasses? - Because they can't C.
 
 <!--joke-end-->
 
