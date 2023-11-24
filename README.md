@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Your mama's so FAT she can't save files bigger than 4GB.
+Programming is like sex. - Make one mistake and you end up supporting it for the rest of your life.
 
 <!--joke-end-->
 
