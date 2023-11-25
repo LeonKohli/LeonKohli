@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Programming is like sex. - Make one mistake and you end up supporting it for the rest of your life.
+.NET developers are picky when it comes to food. - They only like chicken NuGet.
 
 <!--joke-end-->
 
