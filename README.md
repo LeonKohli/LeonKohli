@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-ASCII silly question, get a silly ANSI.
+Why do programmers wear glasses? - Because they need to C#
 
 <!--joke-end-->
 
