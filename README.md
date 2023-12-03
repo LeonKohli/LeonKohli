@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a developer who doesn't comment code? - A developer.
+Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
 
 <!--joke-end-->
 
