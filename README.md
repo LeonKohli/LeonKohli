@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 
 <!--joke-end-->
 
