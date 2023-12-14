@@ -39,7 +39,8 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why are Assembly programmers always soaking wet? - They work below C-level.
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 
 <!--joke-end-->
 
