@@ -39,7 +39,10 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Genders are a lot like booleans. - There's only two of them.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 
 <!--joke-end-->
 
