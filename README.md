@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer jump on the table? - Because debug was on his screen.
+Why did the Python data scientist get arrested at customs? - She was caught trying to import pandas!
 
 <!--joke-end-->
 
