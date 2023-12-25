@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why did the Python data scientist get arrested at customs? - She was caught trying to import pandas!
+// This line doesn't actually do anything, but the code stops working when I delete it.
 
 <!--joke-end-->
 
