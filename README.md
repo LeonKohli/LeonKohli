@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-What is the best prefix for global variables? - //
+So what's a set of predefined steps the government might take to preserve the environment? - An Al-Gore-ithm.
 
 <!--joke-end-->
 
