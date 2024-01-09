@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+Programming is like sex. - Make one mistake and you end up supporting it for the rest of your life.
 
 <!--joke-end-->
 
