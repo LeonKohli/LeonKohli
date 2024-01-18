@@ -39,12 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+Why was the JavaScript developer sad? - Because they didn't Node how to Express themself!
 
 <!--joke-end-->
 
