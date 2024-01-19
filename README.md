@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why was the JavaScript developer sad? - Because they didn't Node how to Express themself!
+Why do they call it hyper terminal? - Too much Java.
 
 <!--joke-end-->
 
