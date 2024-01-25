@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers wear glasses? - Because they need to C#
+Why did the database administrator leave his wife? - She had one-to-many relationships.
 
 <!--joke-end-->
 
