@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-I'd tell you a joke about NAT but I would have to translate.
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 
 <!--joke-end-->
 
