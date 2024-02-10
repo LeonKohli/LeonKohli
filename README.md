@@ -39,7 +39,9 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a group of 8 Hobbits? - A Hobbyte.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 
 <!--joke-end-->
 
