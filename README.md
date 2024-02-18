@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-.NET developers are picky when it comes to food. - They only like chicken NuGet.
+I'd tell you a joke about NAT but I would have to translate.
 
 <!--joke-end-->
 
