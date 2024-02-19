@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-I'd tell you a joke about NAT but I would have to translate.
+Why are modern programming languages so materialistic? - Because they are object-oriented.
 
 <!--joke-end-->
 
