@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why did the JavaScript heap close shop? - It ran out of memory.
+Why is Linux safe? - Hackers peak through Windows only.
 
 <!--joke-end-->
 
