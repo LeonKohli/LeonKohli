@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Genders are a lot like booleans. - There's only two of them.
+What do you call a group of 8 Hobbits? - A Hobbyte.
 
 <!--joke-end-->
 
