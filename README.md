@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+Why did the Python programmer not respond to the foreign mails he got? - Because his interpreter was busy collecting garbage.
 
 <!--joke-end-->
 
