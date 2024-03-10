@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-How many programmers does it take to screw in a light bulb? - None. It's a hardware problem.
+Why do programmers confuse Halloween and Christmas? - Because Oct 31 = Dec 25
 
 <!--joke-end-->
 
