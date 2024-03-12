@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why did the web developer walk out of a resturant in disgust? - The seating was laid out in tables.
+How did the programmer die in the shower? - He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 <!--joke-end-->
 
