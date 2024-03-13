@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-How did the programmer die in the shower? - He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+How do you generate a random string? - Put a Windows user in front of Vim and tell them to exit.
 
 <!--joke-end-->
 
