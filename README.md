@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why did the functional programmer get thrown out of school? - Because he refused to take classes.
+Hey baby I wish your name was asynchronous... - ... so you'd give me a callback.
 
 <!--joke-end-->
 
