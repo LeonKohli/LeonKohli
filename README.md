@@ -39,7 +39,9 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 
 <!--joke-end-->
 
