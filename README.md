@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-What's the object-oriented way to become wealthy? - Inheritance.
+Why did the functional programmer get thrown out of school? - Because he refused to take classes.
 
 <!--joke-end-->
 
