@@ -39,12 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+Why are modern programming languages so materialistic? - Because they are object-oriented.
 
 <!--joke-end-->
 
