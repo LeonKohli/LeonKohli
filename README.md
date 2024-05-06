@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why is Linux safe? - Hackers peak through Windows only.
+Why did the Python data scientist get arrested at customs? - She was caught trying to import pandas!
 
 <!--joke-end-->
 
