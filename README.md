@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why did the Python data scientist get arrested at customs? - She was caught trying to import pandas!
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 <!--joke-end-->
 
