@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 <!--joke-end-->
 
