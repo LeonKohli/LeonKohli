@@ -39,7 +39,9 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
 
 <!--joke-end-->
 
