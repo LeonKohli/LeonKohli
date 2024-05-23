@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+How many programmers does it take to screw in a light bulb? - None. It's a hardware problem.
 
 <!--joke-end-->
 
