@@ -39,7 +39,11 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-"We messed up the keming again guys."
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 
 <!--joke-end-->
 
