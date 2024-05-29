@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a developer who doesn't comment code? - A developer.
+How did the programmer die in the shower? - He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 <!--joke-end-->
 
