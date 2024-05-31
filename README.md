@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers prefer using the dark mode? - Because light attracts bugs.
+What do you call a group of 8 Hobbits? - A Hobbyte.
 
 <!--joke-end-->
 
