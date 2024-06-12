@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Your momma is so fat, you need to switch to NTFS to store a picture of her.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 
 <!--joke-end-->
 
