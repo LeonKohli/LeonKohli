@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer jump on the table? - Because debug was on his screen.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 <!--joke-end-->
 
