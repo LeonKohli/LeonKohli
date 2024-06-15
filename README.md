@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+How did the programmer die in the shower? - He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 <!--joke-end-->
 
