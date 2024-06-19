@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+What is the most used language in programming? - Profanity.
 
 <!--joke-end-->
 
