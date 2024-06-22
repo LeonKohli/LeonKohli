@@ -39,13 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?
+// This line doesn't actually do anything, but the code stops working when I delete it.
 
 <!--joke-end-->
 
