@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a developer who doesn't comment code? - A developer.
+What are bits? - Tiny things left when you drop your computer down the stairs.
 
 <!--joke-end-->
 
