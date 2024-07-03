@@ -39,8 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+So what's a set of predefined steps the government might take to preserve the environment? - An Al-Gore-ithm.
 
 <!--joke-end-->
 
