@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-So what's a set of predefined steps the government might take to preserve the environment? - An Al-Gore-ithm.
+Why did the database administrator leave his wife? - She had one-to-many relationships.
 
 <!--joke-end-->
 
