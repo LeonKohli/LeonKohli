@@ -39,7 +39,10 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 
 <!--joke-end-->
 
