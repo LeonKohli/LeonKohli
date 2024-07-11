@@ -39,7 +39,7 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 ## Daily Joke
 
 <!--joke-start-->
-How do you know God is a shitty programmer? - He wrote the OS for an entire universe, but didn't leave a single useful comment.
+Why do programmers confuse Halloween and Christmas? - Because Oct 31 = Dec 25
 
 <!--joke-end-->
 
