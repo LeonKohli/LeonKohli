@@ -9,20 +9,17 @@
 
 [![Linkedin: Leon Kohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](https://de.linkedin.com/in/leon-kohlhaußen-72b9041aa)
 [![Telegram Leon Kohli](https://img.shields.io/badge/LeonKohli-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/LeonKohli)
-[![Twitter Leon Kohli](https://img.shields.io/twitter/follow/leonkohli?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/leonkohli)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/LeonKohli)](https://twitter.com/leonkohli)
 [![Instagram: Leon Kohli](https://img.shields.io/badge/-leonkohli-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](https://www.instagram.com/leonkohli/)
 [![StackOverflow: LeonKohli](https://img.shields.io/badge/-LeonKohli-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/20480270/leonkohli)](https://stackoverflow.com/users/20480270/leonkohli)
 [![GitHub Leon Kohli](https://img.shields.io/github/followers/leonkohli?label=follow&style=social)](https://github.com/leonkohli)
 [![GitLab: Leon Kohli](https://img.shields.io/badge/-LeonKohli-FCA121?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/LeonKohli)](https://gitlab.com/LeonKohli)
-[![Lead Developer and Maintainer: Gottesanbeterin-Gesucht.de](https://img.shields.io/badge/-Lead%20Developer%20and%20Maintainer-orange)](https://gottesanbeterin-gesucht.de)
-
 
 </div>
 
 ---
 
-Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm passionate about Java and Python and I spend most of my time coding, gaining knowledge, and working on projects that I love, including my role as Lead Developer and Maintainer of the [Mantis Project/ Gottesanbeterin gesucht Project](https://gottesanbeterin-gesucht.de). I'm also enthusiastic about web development and game development. I started my active programming journey here in August 2022. 🌱 Besides that, you can find me exploring the great outdoors, bikepacking, or enjoying some quiet camping time.
-
+Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'm passionate about Flask, Python, Nuxt.js, and Vue. I spend most of my time coding, gaining knowledge, and working on projects that I love, including my role as Lead Developer and Maintainer of the [Mantis Project/ Gottesanbeterin gesucht Project](https://gottesanbeterin-gesucht.de). I'm also enthusiastic about web development and game development. I started my active programming journey here in August 2022. 🌱 Besides that, you can find me exploring the great outdoors, bikepacking, or enjoying some quiet camping time.
 
 ### What I'm working on 🛠️
 
@@ -30,7 +27,6 @@ Hi, I'm Leon, a trainee IT specialist for system integration in Potsdam. I'm pas
 - 🐍 Advanced Python & Javascript: I'm always learning more!
 - 🌳 Outdoor Coding: Yes, that's a thing.
 - 👨‍💻 Find more about my projects: [coming soon](https://leonkohli.de)
-
 
 ---
 
@@ -48,7 +44,6 @@ How do you generate a random string? - Put a Windows user in front of Vim and te
 ## 🚀💻 Technologies & Tools:
 
 <code><img height="25" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></code>
 <code><img height="25" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></code>
@@ -62,19 +57,16 @@ How do you generate a random string? - Put a Windows user in front of Vim and te
 <code><img height="25" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"></code>
 <code><img height="25" src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Linux_Shell-black?style=flat-square&logo=linux"></code>
 <code><img height="25" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql"></code>
-<code><img height="25" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></code>
 <code><img height="25" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"></code>
 <code><img height="25" src="https://img.shields.io/badge/-VBA-black?style=flat-square&logo=microsoft"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js"></code>
 
 ### 📚 Excited to learn:
 
-<code><img height="25" src="https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular"></code>
-<code><img height="25" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter"></code>
 
 </div>
@@ -82,7 +74,6 @@ How do you generate a random string? - Put a Windows user in front of Vim and te
 ---
 
 <div align="center">
-
 
 ### My GitLab
 
@@ -96,10 +87,7 @@ Would love to connect and chat about mutual interests. Feel free to drop a hello
 
 ## &#x1f4c8; Git Stats
 
-
-
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=LeonKohli&show_icons=true&theme=tokyonight">  
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=LeonKohli&langs_count=5&layout=compact&theme=tokyonight">
 
 </div>
-
