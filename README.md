@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-"We messed up the keming again guys."
+Why did the JavaScript heap close shop? - It ran out of memory.
 
 <!--joke-end-->
 
