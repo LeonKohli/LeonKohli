@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Why did the JavaScript heap close shop? - It ran out of memory.
+How do you generate a random string? - Put a Windows user in front of Vim and tell them to exit.
 
 <!--joke-end-->
 
