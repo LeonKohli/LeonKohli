@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer quit his job? - Because he didn't get arrays.
+Why are Assembly programmers always soaking wet? - They work below C-level.
 
 <!--joke-end-->
 
