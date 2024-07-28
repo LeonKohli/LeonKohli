@@ -35,11 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+The generation of random numbers is too important to be left to chance.
 
 <!--joke-end-->
 
