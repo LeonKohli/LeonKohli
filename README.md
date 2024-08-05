@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 <!--joke-end-->
 
