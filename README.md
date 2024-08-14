@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Why does no one like SQLrillex? - He keeps dropping the database.
+How did the programmer die in the shower? - He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 <!--joke-end-->
 
