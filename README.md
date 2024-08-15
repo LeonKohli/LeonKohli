@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-How did the programmer die in the shower? - He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+Why did the programmer jump on the table? - Because debug was on his screen.
 
 <!--joke-end-->
 
