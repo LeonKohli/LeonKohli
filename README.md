@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer jump on the table? - Because debug was on his screen.
+ASCII silly question, get a silly ANSI.
 
 <!--joke-end-->
 
