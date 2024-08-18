@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-The generation of random numbers is too important to be left to chance.
+Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
 
 <!--joke-end-->
 
