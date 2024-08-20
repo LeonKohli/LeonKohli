@@ -35,11 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+What is the most used language in programming? - Profanity.
 
 <!--joke-end-->
 
