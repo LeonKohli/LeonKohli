@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-What do you get if you lock a monkey in a room with a typewriter for 8 hours? - A regular expression.
+Why do Java programmers hate communism? - They don't want to live in a classless society.
 
 <!--joke-end-->
 
