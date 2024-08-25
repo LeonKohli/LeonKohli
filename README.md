@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Your momma is so fat, you need to switch to NTFS to store a picture of her.
+Why are Assembly programmers always soaking wet? - They work below C-level.
 
 <!--joke-end-->
 
