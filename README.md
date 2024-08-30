@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-What is the best prefix for global variables? - //
+What do you get if you lock a monkey in a room with a typewriter for 8 hours? - A regular expression.
 
 <!--joke-end-->
 
