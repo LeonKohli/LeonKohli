@@ -35,10 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+Why did the Python programmer not respond to the foreign mails he got? - Because his interpreter was busy collecting garbage.
 
 <!--joke-end-->
 
