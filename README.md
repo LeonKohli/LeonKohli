@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Why did the Python programmer not respond to the foreign mails he got? - Because his interpreter was busy collecting garbage.
+How can you tell an extroverted programmer? - He looks at YOUR shoes when he's talking.
 
 <!--joke-end-->
 
