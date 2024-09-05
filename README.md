@@ -35,7 +35,12 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Why does no one like SQLrillex? - He keeps dropping the database.
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 
 <!--joke-end-->
 
