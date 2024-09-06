@@ -35,12 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+What do you call a group of 8 Hobbits? - A Hobbyte.
 
 <!--joke-end-->
 
