@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-// This line doesn't actually do anything, but the code stops working when I delete it.
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 
 <!--joke-end-->
 
