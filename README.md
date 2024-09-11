@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+"We messed up the keming again guys."
 
 <!--joke-end-->
 
