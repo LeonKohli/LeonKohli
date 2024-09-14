@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Why did the functional programmer get thrown out of school? - Because he refused to take classes.
+How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
 
 <!--joke-end-->
 
