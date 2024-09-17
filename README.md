@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a group of 8 Hobbits? - A Hobbyte.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 <!--joke-end-->
 
