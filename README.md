@@ -35,12 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+Why did the database administrator leave his wife? - She had one-to-many relationships.
 
 <!--joke-end-->
 
