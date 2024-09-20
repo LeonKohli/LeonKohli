@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Why did the database administrator leave his wife? - She had one-to-many relationships.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 <!--joke-end-->
 
