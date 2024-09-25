@@ -35,10 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
 
 <!--joke-end-->
 
