@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+Hey, wanna hear a joke? - Parsing HTML with regex.
 
 <!--joke-end-->
 
