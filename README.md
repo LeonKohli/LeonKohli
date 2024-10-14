@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Why did the Python data scientist get arrested at customs? - She was caught trying to import pandas!
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 <!--joke-end-->
 
