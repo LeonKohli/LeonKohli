@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+What are bits? - Tiny things left when you drop your computer down the stairs.
 
 <!--joke-end-->
 
