@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Why are modern programming languages so materialistic? - Because they are object-oriented.
+Why does no one like SQLrillex? - He keeps dropping the database.
 
 <!--joke-end-->
 
