@@ -35,7 +35,11 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-How can you tell an extroverted programmer? - He looks at YOUR shoes when he's talking.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 
 <!--joke-end-->
 
