@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Debugging: Removing the needles from the haystack.
+Hey baby I wish your name was asynchronous... - ... so you'd give me a callback.
 
 <!--joke-end-->
 
