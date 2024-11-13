@@ -35,7 +35,7 @@ Hi, I'm Leon, a trainee IT specialist for application development in Potsdam. I'
 ## Daily Joke
 
 <!--joke-start-->
-Hey baby I wish your name was asynchronous... - ... so you'd give me a callback.
+Why do Java programmers hate communism? - They don't want to live in a classless society.
 
 <!--joke-end-->
 
