@@ -15,6 +15,11 @@
 [![GitHub Leon Kohli](https://img.shields.io/github/followers/leonkohli?label=follow&style=social)](https://github.com/leonkohli)
 [![GitLab: Leon Kohli](https://img.shields.io/badge/-LeonKohli-FCA121?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/LeonKohli)](https://gitlab.com/LeonKohli)
 
+### Support:
+<p>
+<a href="https://www.buymeacoffee.com/leonkohli"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leonkohli" /></a>
+<a href="https://ko-fi.com/leonkohli"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="leonkohli" /></a>
+</p>
 </div>
 
 ---
