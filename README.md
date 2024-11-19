@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+What do you call a developer who doesn't comment code? - A developer.
 
 <!--joke-end-->
 
