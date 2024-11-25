@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Debugging: Removing the needles from the haystack.
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 
 <!--joke-end-->
 
