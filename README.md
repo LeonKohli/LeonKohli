@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+How many programmers does it take to screw in a light bulb? - None. It's a hardware problem.
 
 <!--joke-end-->
 
