@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-How do you know God is a shitty programmer? - He wrote the OS for an entire universe, but didn't leave a single useful comment.
+Why did the programmer quit his job? - Because he didn't get arrays.
 
 <!--joke-end-->
 
