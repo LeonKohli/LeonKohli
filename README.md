@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer quit his job? - Because he didn't get arrays.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 <!--joke-end-->
 
