@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers prefer using the dark mode? - Because light attracts bugs.
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 <!--joke-end-->
 
