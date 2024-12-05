@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+Debugging: Removing the needles from the haystack.
 
 <!--joke-end-->
 
