@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+why do python programmers wear glasses? - Because they can't C.
 
 <!--joke-end-->
 
