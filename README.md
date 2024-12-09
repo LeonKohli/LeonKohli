@@ -31,7 +31,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 - 🖥️ [Mantis](https://gottesanbeterin-gesucht.de) Mitmachprojekt: A web application to report Mantis religiose in Germany  [Mantis](https://gitlab.com/opendata-apps/mantis)
 - 🔒 Browser Fingerprinting: Exploring web security and privacy techniques
 - 🤖 LLM Integration: Building practical applications with language models
-- 👨‍💻 Find more about my projects: [coming soon](https://leonkohli.dev)
+- 👨‍💻 Find more about my projects: [here](https://leonkohli.dev)
 
 ---
 
