@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers confuse Halloween and Christmas? - Because Oct 31 = Dec 25
+What do you call a developer who doesn't comment code? - A developer.
 
 <!--joke-end-->
 
