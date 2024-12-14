@@ -40,7 +40,11 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 
 <!--joke-end-->
 
