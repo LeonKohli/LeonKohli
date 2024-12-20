@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-So what's a set of predefined steps the government might take to preserve the environment? - An Al-Gore-ithm.
+What do you get if you lock a monkey in a room with a typewriter for 8 hours? - A regular expression.
 
 <!--joke-end-->
 
