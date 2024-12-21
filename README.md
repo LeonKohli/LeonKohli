@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-What do you get if you lock a monkey in a room with a typewriter for 8 hours? - A regular expression.
+Why do programmers prefer using the dark mode? - Because light attracts bugs.
 
 <!--joke-end-->
 
