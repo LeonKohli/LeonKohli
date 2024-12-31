@@ -40,10 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 <!--joke-end-->
 
