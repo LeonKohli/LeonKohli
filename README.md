@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
+What is the most used language in programming? - Profanity.
 
 <!--joke-end-->
 
