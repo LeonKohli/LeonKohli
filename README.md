@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-What is the most used language in programming? - Profanity.
+Why do programmers wear glasses? - Because they need to C#
 
 <!--joke-end-->
 
