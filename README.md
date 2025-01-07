@@ -40,11 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
 
 <!--joke-end-->
 
