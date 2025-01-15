@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-How do you generate a random string? - Put a Windows user in front of Vim and tell them to exit.
+Why did the JavaScript heap close shop? - It ran out of memory.
 
 <!--joke-end-->
 
