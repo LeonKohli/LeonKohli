@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why did the JavaScript heap close shop? - It ran out of memory.
+Why do programmers wear glasses? - Because they need to C#
 
 <!--joke-end-->
 
