@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
+How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
 
 <!--joke-end-->
 
