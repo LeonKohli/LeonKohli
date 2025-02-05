@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-What is a dying programmer's last program? - Goodbye, world!
+Why do they call it hyper terminal? - Too much Java.
 
 <!--joke-end-->
 
