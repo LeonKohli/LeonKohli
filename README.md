@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-What is the best prefix for global variables? - //
+What are bits? - Tiny things left when you drop your computer down the stairs.
 
 <!--joke-end-->
 
