@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+Why do they call it hyper terminal? - Too much Java.
 
 <!--joke-end-->
 
