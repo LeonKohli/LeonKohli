@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why do they call it hyper terminal? - Too much Java.
+Why did the programmer jump on the table? - Because debug was on his screen.
 
 <!--joke-end-->
 
