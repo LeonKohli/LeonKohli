@@ -40,11 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 <!--joke-end-->
 
