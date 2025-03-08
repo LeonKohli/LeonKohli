@@ -40,7 +40,11 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why is Linux safe? - Hackers peak through Windows only.
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 
 <!--joke-end-->
 
