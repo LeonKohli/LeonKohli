@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why did the database administrator leave his wife? - She had one-to-many relationships.
+why do python programmers wear glasses? - Because they can't C.
 
 <!--joke-end-->
 
