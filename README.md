@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-How many programmers does it take to screw in a light bulb? - None. It's a hardware problem.
+"We messed up the keming again guys."
 
 <!--joke-end-->
 
