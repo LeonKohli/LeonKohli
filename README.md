@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer quit his job? - Because he didn't get arrays.
+Why do Java programmers hate communism? - They don't want to live in a classless society.
 
 <!--joke-end-->
 
