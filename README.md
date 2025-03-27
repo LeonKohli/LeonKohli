@@ -40,7 +40,10 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 
 <!--joke-end-->
 
