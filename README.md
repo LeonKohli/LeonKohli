@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Debugging: Removing the needles from the haystack.
+Why did the programmer quit his job? - Because he didn't get arrays.
 
 <!--joke-end-->
 
