@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer quit his job? - Because he didn't get arrays.
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 
 <!--joke-end-->
 
