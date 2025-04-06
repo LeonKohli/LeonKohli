@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-why do python programmers wear glasses? - Because they can't C.
+Why are modern programming languages so materialistic? - Because they are object-oriented.
 
 <!--joke-end-->
 
