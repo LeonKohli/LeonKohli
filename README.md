@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why are modern programming languages so materialistic? - Because they are object-oriented.
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 
 <!--joke-end-->
 
