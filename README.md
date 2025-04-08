@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 
 <!--joke-end-->
 
