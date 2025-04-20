@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-What is a dying programmer's last program? - Goodbye, world!
+What do you call a group of 8 Hobbits? - A Hobbyte.
 
 <!--joke-end-->
 
