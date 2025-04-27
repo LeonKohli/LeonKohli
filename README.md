@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers wear glasses? - Because they need to C#
+How did the programmer die in the shower? - He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 
 <!--joke-end-->
 
