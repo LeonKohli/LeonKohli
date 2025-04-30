@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
+Why does no one like SQLrillex? - He keeps dropping the database.
 
 <!--joke-end-->
 
