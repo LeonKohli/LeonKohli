@@ -40,7 +40,9 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why does no one like SQLrillex? - He keeps dropping the database.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 
 <!--joke-end-->
 
