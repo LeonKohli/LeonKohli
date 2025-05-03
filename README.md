@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-"We messed up the keming again guys."
+What is the best prefix for global variables? - //
 
 <!--joke-end-->
 
