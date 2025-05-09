@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-What's the object-oriented way to become wealthy? - Inheritance.
+Programming is like sex. - Make one mistake and you end up supporting it for the rest of your life.
 
 <!--joke-end-->
 
