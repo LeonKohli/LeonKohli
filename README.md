@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Programming is like sex. - Make one mistake and you end up supporting it for the rest of your life.
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 
 <!--joke-end-->
 
