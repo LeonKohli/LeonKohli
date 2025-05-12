@@ -40,7 +40,8 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why does no one like SQLrillex? - He keeps dropping the database.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 
 <!--joke-end-->
 
