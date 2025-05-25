@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+Why did the JavaScript heap close shop? - It ran out of memory.
 
 <!--joke-end-->
 
