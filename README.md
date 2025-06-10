@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+The generation of random numbers is too important to be left to chance.
 
 <!--joke-end-->
 
