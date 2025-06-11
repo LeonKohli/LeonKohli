@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-The generation of random numbers is too important to be left to chance.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 <!--joke-end-->
 
