@@ -40,7 +40,8 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Your mama's so FAT she can't save files bigger than 4GB.
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 
 <!--joke-end-->
 
