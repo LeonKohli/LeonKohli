@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-What is the best prefix for global variables? - //
+ASCII silly question, get a silly ANSI.
 
 <!--joke-end-->
 
