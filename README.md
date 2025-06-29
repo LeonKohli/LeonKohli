@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-ASCII silly question, get a silly ANSI.
+What is the most used language in programming? - Profanity.
 
 <!--joke-end-->
 
