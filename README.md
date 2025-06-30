@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-What is the most used language in programming? - Profanity.
+Why did the programmer quit his job? - Because he didn't get arrays.
 
 <!--joke-end-->
 
