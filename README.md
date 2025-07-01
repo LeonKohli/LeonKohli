@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer quit his job? - Because he didn't get arrays.
+How do you generate a random string? - Put a Windows user in front of Vim and tell them to exit.
 
 <!--joke-end-->
 
