@@ -40,7 +40,11 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Debugging: Removing the needles from the haystack.
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 
 <!--joke-end-->
 
