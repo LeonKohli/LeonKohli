@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Why does no one like SQLrillex? - He keeps dropping the database.
+How do you know God is a shitty programmer? - He wrote the OS for an entire universe, but didn't leave a single useful comment.
 
 <!--joke-end-->
 
