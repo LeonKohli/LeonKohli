@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a developer who doesn't comment code? - A developer.
+I'd tell you a joke about NAT but I would have to translate.
 
 <!--joke-end-->
 
