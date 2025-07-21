@@ -24,7 +24,7 @@
 
 ---
 
-Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in Software Development (Fachinformatiker/-in Fachrichtung: Anwendungsentwicklung). I'm based in Potsdam, specializing in building secure and modern web applications using technologies like Vue.js, Flask, FastAPI and Node.js. I'm passionate about cybersecurity, IoT, and home automation solutions. Currently, I lead development on the Mantis Project, where we're leveraging tech for ecological research together with the Naturkundemuseum Potsdam. When I'm not coding, you'll find me tinkering with Raspberry Pis, setting up home automation systems, or exploring network security
+Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in Software Development (Fachinformatiker Fachrichtung: Anwendungsentwicklung). I'm based in Potsdam, specializing in building secure and modern web applications using technologies like Vue.js, Flask, FastAPI and Node.js. I'm passionate about cybersecurity, IoT, and home automation solutions. Currently, I lead development on the Mantis Project, where we're leveraging tech for ecological research together with the Naturkundemuseum Potsdam. When I'm not coding, you'll find me tinkering with Raspberry Pis, setting up home automation systems, or exploring network security
 
 ### What I'm working on 🛠️
 
