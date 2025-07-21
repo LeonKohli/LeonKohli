@@ -24,13 +24,13 @@
 
 ---
 
-Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I specialize in building secure and scalable web applications using modern technologies like Vue.js, Flask, and Node.js. I'm passionate about cybersecurity, IoT, and home automation solutions. Currently, I lead development on the Mantis Project, where we're leveraging tech for ecological research. When I'm not coding, you'll find me tinkering with Raspberry Pis, setting up home automation systems, or exploring network security
+Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in Software Development (Fachinformatiker/-in Fachrichtung: Anwendungsentwicklung). I'm based in Potsdam, specializing in building secure and modern web applications using technologies like Vue.js, Flask, FastAPI and Node.js. I'm passionate about cybersecurity, IoT, and home automation solutions. Currently, I lead development on the Mantis Project, where we're leveraging tech for ecological research together with the Naturkundemuseum Potsdam. When I'm not coding, you'll find me tinkering with Raspberry Pis, setting up home automation systems, or exploring network security
 
 ### What I'm working on 🛠️
 
 - 🖥️ [Mantis](https://gottesanbeterin-gesucht.de) Mitmachprojekt: A web application to report Mantis religiose in Germany  [Mantis](https://gitlab.com/opendata-apps/mantis)
 - 🔒 Browser Fingerprinting: Exploring web security and privacy techniques
-- 🤖 LLM Integration: Building practical applications with language models
+- 🤖 LLM Integration: Building practical applications and tools with language models
 - 👨‍💻 Find more about my projects: [here](https://leonkohli.dev)
 
 ---
@@ -81,7 +81,7 @@ You can find my other projects over at GitLab. Check them out [here](https://git
 
 ### Let's Connect 🌐
 
-Would love to connect and chat about mutual interests. Feel free to drop a hello [here](https://leonkohli.github.io/)
+Would love to connect and chat about mutual interests. Feel free to drop a hello [here](https://leonkohli.dev)
 
 ## &#x1f4c8; Git Stats
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=leonkohli&show_icons=true&theme=tokyonight&border_radius=20">  
