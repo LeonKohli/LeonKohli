@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Security Enthusiast based in Potsdam. I
 ## Daily Joke
 
 <!--joke-start-->
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+Why was the JavaScript developer sad? - Because they didn't Node how to Express themself!
 
 <!--joke-end-->
 
