@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Linkedin: Leon Kohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonkohhlhaussen/)](https://de.linkedin.com/in/leon-kohlhaußen-72b9041aa)
+[![Linkedin: Leon Kohlhaußen](https://img.shields.io/badge/-leonkohlhaußen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leon-kohlhau%C3%9Fen/)](https://www.linkedin.com/in/leon-kohlhau%C3%9Fen/)
 [![Telegram Leon Kohli](https://img.shields.io/badge/LeonKohli-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/LeonKohli)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/LeonKohli)](https://twitter.com/leonkohli)
 [![Instagram: Leon Kohli](https://img.shields.io/badge/-leonkohli-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leonkohli/)](https://www.instagram.com/leonkohli/)
@@ -24,11 +24,11 @@
 
 ---
 
-Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in Software Development (Fachinformatiker Fachrichtung: Anwendungsentwicklung). I'm based in Potsdam, specializing in building secure and modern web applications using technologies like Vue.js, Flask, FastAPI and Node.js. I'm passionate about cybersecurity, IoT, and home automation solutions. Currently, I lead development on the Mantis Project, where we're leveraging tech for ecological research together with the Naturkundemuseum Potsdam. When I'm not coding, you'll find me tinkering with Raspberry Pis, setting up home automation systems, or exploring network security
+Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in Software Development (Fachinformatiker Fachrichtung: Anwendungsentwicklung). I'm based in Potsdam, building secure and modern web applications using technologies like Vue.js, Flask, FastAPI and Node.js. I'm passionate about cybersecurity, IoT, and home automation solutions. Currently, I lead development on the Mantis Project, where we're leveraging tech for ecological research together with the Naturkundemuseum Potsdam. When I'm not coding, you'll find me tinkering with Raspberry Pis, setting up home automation systems, or exploring network security
 
 ### What I'm working on 🛠️
 
-- 🖥️ [Mantis](https://gottesanbeterin-gesucht.de) Mitmachprojekt: A web application to report Mantis religiose in Germany  [Mantis](https://gitlab.com/opendata-apps/mantis)
+- 🖥️ [Mantis](https://gottesanbeterin-gesucht.de) Mitmachprojekt: A web application to report Mantis religiosa in Germany  [Mantis](https://gitlab.com/opendata-apps/mantis)
 - 🔒 Browser Fingerprinting: Exploring web security and privacy techniques
 - 🤖 LLM Integration: Building practical applications and tools with language models
 - 👨‍💻 Find more about my projects: [here](https://leonkohli.dev)
