@@ -48,18 +48,23 @@ Why was the JavaScript developer sad? - Because they didn't Node how to Express 
 
 ## 🚀💻 Technologies & Tools:
 
+<code><img height="25" src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js"></code>
+<code><img height="25" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></code>
-<code><img height="25" src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"></code>
 <code><img height="25" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwindcss"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun"></code>
+<code><img height="25" src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask"></code>
-<code><img height="25" src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Linux_Shell-black?style=flat-square&logo=linux"></code>
-<code><img height="25" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql"></code>
 <code><img height="25" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"></code>
+<code><img height="25" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Linux_Shell-black?style=flat-square&logo=linux"></code>
+<code><img height="25" src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell"></code>
 <code><img height="25" src="https://img.shields.io/badge/-VBA-black?style=flat-square&logo=microsoft"></code>
-<code><img height="25" src="https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js"></code>
+<code><img height="25" src="https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma"></code>
 
 ### 📚 Excited to learn:
 
