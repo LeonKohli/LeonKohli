@@ -40,10 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+Why do programmers prefer using the dark mode? - Because light attracts bugs.
 
 <!--joke-end-->
 
