@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers prefer using the dark mode? - Because light attracts bugs.
+Why did the JavaScript heap close shop? - It ran out of memory.
 
 <!--joke-end-->
 
