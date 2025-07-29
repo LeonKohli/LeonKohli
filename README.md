@@ -40,7 +40,12 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-"We messed up the keming again guys."
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 
 <!--joke-end-->
 
