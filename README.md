@@ -40,12 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 <!--joke-end-->
 
