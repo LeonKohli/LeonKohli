@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why did the functional programmer get thrown out of school? - Because he refused to take classes.
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 
 <!--joke-end-->
 
