@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a developer who doesn't comment code? - A developer.
+Why do Java programmers hate communism? - They don't want to live in a classless society.
 
 <!--joke-end-->
 
