@@ -40,7 +40,12 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why was the JavaScript developer sad? - Because they didn't Node how to Express themself!
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 
 <!--joke-end-->
 
