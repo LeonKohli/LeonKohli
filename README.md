@@ -40,12 +40,11 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 
 <!--joke-end-->
 
