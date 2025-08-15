@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+Why did the JavaScript heap close shop? - It ran out of memory.
 
 <!--joke-end-->
 
