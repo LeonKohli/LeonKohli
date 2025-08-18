@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Why did the web developer walk out of a resturant in disgust? - The seating was laid out in tables.
 
 <!--joke-end-->
 
