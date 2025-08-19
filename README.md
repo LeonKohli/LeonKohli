@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why did the web developer walk out of a resturant in disgust? - The seating was laid out in tables.
+What are bits? - Tiny things left when you drop your computer down the stairs.
 
 <!--joke-end-->
 
