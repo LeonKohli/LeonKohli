@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What do you get if you lock a monkey in a room with a typewriter for 8 hours? - A regular expression.
+Your mama's so FAT she can't save files bigger than 4GB.
 
 <!--joke-end-->
 
