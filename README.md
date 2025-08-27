@@ -40,8 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+What do you call a developer who doesn't comment code? - A developer.
 
 <!--joke-end-->
 
