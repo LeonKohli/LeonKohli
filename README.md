@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What is the best prefix for global variables? - //
+How many programmers does it take to screw in a light bulb? - None. It's a hardware problem.
 
 <!--joke-end-->
 
