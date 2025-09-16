@@ -40,7 +40,9 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-So what's a set of predefined steps the government might take to preserve the environment? - An Al-Gore-ithm.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 
 <!--joke-end-->
 
