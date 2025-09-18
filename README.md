@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a group of 8 Hobbits? - A Hobbyte.
+How do you know God is a shitty programmer? - He wrote the OS for an entire universe, but didn't leave a single useful comment.
 
 <!--joke-end-->
 
