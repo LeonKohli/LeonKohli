@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-How do you know God is a shitty programmer? - He wrote the OS for an entire universe, but didn't leave a single useful comment.
+Why are Assembly programmers always soaking wet? - They work below C-level.
 
 <!--joke-end-->
 
