@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 
 <!--joke-end-->
 
