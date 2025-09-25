@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-How do you generate a random string? - Put a Windows user in front of Vim and tell them to exit.
+Why do programmers wear glasses? - Because they need to C#
 
 <!--joke-end-->
 
