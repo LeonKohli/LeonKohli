@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why did the JavaScript heap close shop? - It ran out of memory.
+What is the most used language in programming? - Profanity.
 
 <!--joke-end-->
 
