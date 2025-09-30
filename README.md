@@ -40,7 +40,12 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What is the most used language in programming? - Profanity.
+"Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 
 <!--joke-end-->
 
