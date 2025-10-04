@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers confuse Halloween and Christmas? - Because Oct 31 = Dec 25
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 <!--joke-end-->
 
