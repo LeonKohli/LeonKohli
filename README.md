@@ -40,7 +40,8 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-There are only 10 kinds of people in this world: those who know binary and those who don't.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 
 <!--joke-end-->
 
