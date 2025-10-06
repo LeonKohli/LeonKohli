@@ -40,8 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+Your mama's so FAT she can't save files bigger than 4GB.
 
 <!--joke-end-->
 
