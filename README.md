@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Your mama's so FAT she can't save files bigger than 4GB.
+Why do they call it hyper terminal? - Too much Java.
 
 <!--joke-end-->
 
