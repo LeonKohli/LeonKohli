@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-UDP is better in the COVID era since it avoids unnecessary handshakes.
+Why is Linux safe? - Hackers peak through Windows only.
 
 <!--joke-end-->
 
