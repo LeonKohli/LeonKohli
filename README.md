@@ -40,11 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+Why do programmers confuse Halloween and Christmas? - Because Oct 31 = Dec 25
 
 <!--joke-end-->
 
