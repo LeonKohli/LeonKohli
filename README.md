@@ -40,7 +40,9 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What do you get if you lock a monkey in a room with a typewriter for 8 hours? - A regular expression.
+A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
 
 <!--joke-end-->
 
