@@ -40,9 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 
 <!--joke-end-->
 
