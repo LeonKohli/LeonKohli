@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What is the most used language in programming? - Profanity.
+What is a dying programmer's last program? - Goodbye, world!
 
 <!--joke-end-->
 
