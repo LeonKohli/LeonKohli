@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-ASCII silly question, get a silly ANSI.
+Why are Assembly programmers always soaking wet? - They work below C-level.
 
 <!--joke-end-->
 
