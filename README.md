@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+Why did the web developer walk out of a resturant in disgust? - The seating was laid out in tables.
 
 <!--joke-end-->
 
