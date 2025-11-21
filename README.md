@@ -40,11 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 
 <!--joke-end-->
 
