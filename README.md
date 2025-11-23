@@ -40,7 +40,8 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a group of 8 Hobbits? - A Hobbyte.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 
 <!--joke-end-->
 
