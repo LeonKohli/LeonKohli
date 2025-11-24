@@ -40,8 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+Why do Java programmers hate communism? - They don't want to live in a classless society.
 
 <!--joke-end-->
 
