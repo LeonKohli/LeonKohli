@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer jump on the table? - Because debug was on his screen.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 
 <!--joke-end-->
 
