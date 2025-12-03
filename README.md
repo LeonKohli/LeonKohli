@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+Why does no one like SQLrillex? - He keeps dropping the database.
 
 <!--joke-end-->
 
