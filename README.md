@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What is the best prefix for global variables? - //
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 <!--joke-end-->
 
