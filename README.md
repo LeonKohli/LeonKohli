@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+ASCII silly question, get a silly ANSI.
 
 <!--joke-end-->
 
