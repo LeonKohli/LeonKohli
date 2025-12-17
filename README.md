@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-ASCII silly question, get a silly ANSI.
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 
 <!--joke-end-->
 
