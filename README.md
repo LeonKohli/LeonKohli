@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why do they call it hyper terminal? - Too much Java.
+How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
 
 <!--joke-end-->
 
