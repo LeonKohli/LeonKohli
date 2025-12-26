@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
+What is the best prefix for global variables? - //
 
 <!--joke-end-->
 
