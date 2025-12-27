@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What is the best prefix for global variables? - //
+What do you call a developer who doesn't comment code? - A developer.
 
 <!--joke-end-->
 
