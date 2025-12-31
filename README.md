@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why are Assembly programmers always soaking wet? - They work below C-level.
+.NET developers are picky when it comes to food. - They only like chicken NuGet.
 
 <!--joke-end-->
 
