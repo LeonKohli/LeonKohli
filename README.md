@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 
 <!--joke-end-->
 
