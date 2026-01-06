@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why is Linux safe? - Hackers peak through Windows only.
+Why did the programmer jump on the table? - Because debug was on his screen.
 
 <!--joke-end-->
 
