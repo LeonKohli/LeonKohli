@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Programming is like sex. - Make one mistake and you end up supporting it for the rest of your life.
+What's the object-oriented way to become wealthy? - Inheritance.
 
 <!--joke-end-->
 
