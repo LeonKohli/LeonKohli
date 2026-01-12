@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-What's the object-oriented way to become wealthy? - Inheritance.
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 <!--joke-end-->
 
