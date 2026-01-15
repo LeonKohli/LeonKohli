@@ -40,7 +40,8 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Your momma is so fat, you need to switch to NTFS to store a picture of her.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 
 <!--joke-end-->
 
