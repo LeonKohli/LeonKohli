@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-I'd tell you a joke about NAT but I would have to translate.
+Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
 
 <!--joke-end-->
 
