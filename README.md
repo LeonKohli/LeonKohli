@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 <!--joke-end-->
 
