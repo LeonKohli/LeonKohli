@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Hey baby I wish your name was asynchronous... - ... so you'd give me a callback.
+.NET developers are picky when it comes to food. - They only like chicken NuGet.
 
 <!--joke-end-->
 
