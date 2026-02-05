@@ -40,7 +40,8 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers prefer using the dark mode? - Because light attracts bugs.
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 
 <!--joke-end-->
 
