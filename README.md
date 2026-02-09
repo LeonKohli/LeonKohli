@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why does no one like SQLrillex? - He keeps dropping the database.
+Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
 
 <!--joke-end-->
 
