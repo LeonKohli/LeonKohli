@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why did the Python data scientist get arrested at customs? - She was caught trying to import pandas!
+Why do they call it hyper terminal? - Too much Java.
 
 <!--joke-end-->
 
