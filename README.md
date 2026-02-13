@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why do they call it hyper terminal? - Too much Java.
+"We messed up the keming again guys."
 
 <!--joke-end-->
 
