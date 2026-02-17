@@ -40,11 +40,10 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 
 <!--joke-end-->
 
