@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+Why did the Python programmer not respond to the foreign mails he got? - Because his interpreter was busy collecting garbage.
 
 <!--joke-end-->
 
