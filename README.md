@@ -40,7 +40,7 @@ Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in
 ## Daily Joke
 
 <!--joke-start-->
-Why did the Python programmer not respond to the foreign mails he got? - Because his interpreter was busy collecting garbage.
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 
 <!--joke-end-->
 
