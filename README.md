@@ -89,6 +89,6 @@ You can find my other projects over at GitLab. Check them out [here](https://git
 Would love to connect and chat about mutual interests. Feel free to drop a hello [here](https://leonkohli.dev)
 
 ## &#x1f4c8; Git Stats
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=leonkohli&show_icons=true&theme=tokyonight&border_radius=20">  
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonkohli&langs_count=5&layout=compact&theme=tokyonight&border_radius=20">
+<img height="160" src="https://github-readme-stats-one-eta-92.vercel.app/api?username=leonkohli&show_icons=true&theme=tokyonight&border_radius=20">
+<img height="160" src="https://github-readme-stats-one-eta-92.vercel.app/api/top-langs/?username=leonkohli&langs_count=5&layout=compact&theme=tokyonight&border_radius=20">
 </div>
