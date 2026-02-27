@@ -24,14 +24,15 @@
 
 ---
 
-Hi, I'm Leon, a Full Stack Developer and Computer Science Expert specializing in Software Development (Fachinformatiker Fachrichtung: Anwendungsentwicklung). I'm based in Potsdam, building secure and modern web applications using technologies like Vue.js, Flask, FastAPI and Node.js. I'm passionate about cybersecurity, IoT, and home automation solutions. Currently, I lead development on the Mantis Project, where we're leveraging tech for ecological research together with the Naturkundemuseum Potsdam. When I'm not coding, you'll find me tinkering with Raspberry Pis, setting up home automation systems, or exploring network security
+Hi, I'm Leon — Full Stack Developer based in Potsdam, trained as a Fachinformatiker (Anwendungsentwicklung). I build web apps with Vue.js, FastAPI, Flask, and Node.js. Right now I'm leading the Mantis Project with the Naturkundemuseum Potsdam, where we use tech to track praying mantis sightings across Germany. I also spend way too much time on home automation, messing with Raspberry Pis, and poking at network security.
 
 ### What I'm working on 🛠️
 
-- 🖥️ [Mantis](https://gottesanbeterin-gesucht.de) Mitmachprojekt: A web application to report Mantis religiosa in Germany  [Mantis](https://gitlab.com/opendata-apps/mantis)
-- 🔒 Browser Fingerprinting: Exploring web security and privacy techniques
-- 🤖 LLM Integration: Building practical applications and tools with language models
-- 👨‍💻 Find more about my projects: [here](https://leonkohli.dev)
+- 🖥️ [Mantis](https://gottesanbeterin-gesucht.de) — Citizen science app for reporting Mantis religiosa sightings ([source](https://gitlab.com/opendata-apps/mantis))
+- 🔒 [Browser Fingerprint](https://github.com/LeonKohli/browser-fingerprint) — Demo app showing how browsers can be fingerprinted
+- 🤖 [copy4ai](https://github.com/LeonKohli/copy4ai) — VS Code extension to copy code + project structure for LLMs
+- 🛡️ [prebetter](https://github.com/LeonKohli/prebetter) — Real-time security alert dashboard for Prelude IDS
+- 👨‍💻 More at [leonkohli.dev](https://leonkohli.dev)
 
 ---
 
@@ -78,15 +79,9 @@ Algorithm: A word used by programmers when they don't want to explain how their 
 
 <div align="center">
 
-### My GitLab 
-
-You can find my other projects over at GitLab. Check them out [here](https://gitlab.com/LeonKohli).
-
----
-
 ### Let's Connect 🌐
 
-Would love to connect and chat about mutual interests. Feel free to drop a hello [here](https://leonkohli.dev)
+Say hi — [leonkohli.dev](https://leonkohli.dev)
 
 ## &#x1f4c8; Git Stats
 <img height="160" src="https://github-readme-stats-one-eta-92.vercel.app/api?username=leonkohli&show_icons=true&theme=tokyonight&border_radius=20&v=2">
