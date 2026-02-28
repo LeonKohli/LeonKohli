@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+What is the best prefix for global variables? - //
 
 <!--joke-end-->
 
