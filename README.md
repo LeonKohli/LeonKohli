@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-What's the object-oriented way to become wealthy? - Inheritance.
+Why did the database administrator leave his wife? - She had one-to-many relationships.
 
 <!--joke-end-->
 
