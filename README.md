@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-Why do Java programmers hate communism? - They don't want to live in a classless society.
+How do you generate a random string? - Put a Windows user in front of Vim and tell them to exit.
 
 <!--joke-end-->
 
