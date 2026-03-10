@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-How do you generate a random string? - Put a Windows user in front of Vim and tell them to exit.
+The generation of random numbers is too important to be left to chance.
 
 <!--joke-end-->
 
