@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a developer who doesn't comment code? - A developer.
+Hey baby I wish your name was asynchronous... - ... so you'd give me a callback.
 
 <!--joke-end-->
 
