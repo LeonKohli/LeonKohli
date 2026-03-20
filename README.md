@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-"We messed up the keming again guys."
+.NET developers are picky when it comes to food. - They only like chicken NuGet.
 
 <!--joke-end-->
 
