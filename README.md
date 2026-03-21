@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-.NET developers are picky when it comes to food. - They only like chicken NuGet.
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 <!--joke-end-->
 
