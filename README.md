@@ -41,7 +41,10 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 
 <!--joke-end-->
 
