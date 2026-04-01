@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-Debugging: Removing the needles from the haystack.
+Why are Assembly programmers always soaking wet? - They work below C-level.
 
 <!--joke-end-->
 
