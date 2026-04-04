@@ -41,7 +41,8 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-Hey, wanna hear a joke? - Parsing HTML with regex.
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 
 <!--joke-end-->
 
