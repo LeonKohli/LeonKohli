@@ -41,8 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+What is a dying programmer's last program? - Goodbye, world!
 
 <!--joke-end-->
 
