@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-What is a dying programmer's last program? - Goodbye, world!
+I'd tell you a joke about NAT but I would have to translate.
 
 <!--joke-end-->
 
