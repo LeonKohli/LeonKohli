@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+Why did the Python programmer not respond to the foreign mails he got? - Because his interpreter was busy collecting garbage.
 
 <!--joke-end-->
 
