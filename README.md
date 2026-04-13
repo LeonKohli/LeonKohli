@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-Why did the Python programmer not respond to the foreign mails he got? - Because his interpreter was busy collecting garbage.
+What do you get if you lock a monkey in a room with a typewriter for 8 hours? - A regular expression.
 
 <!--joke-end-->
 
