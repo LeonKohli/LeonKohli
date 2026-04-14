@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-What do you get if you lock a monkey in a room with a typewriter for 8 hours? - A regular expression.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 
 <!--joke-end-->
 
