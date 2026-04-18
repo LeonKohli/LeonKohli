@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-What is the best prefix for global variables? - //
+ASCII silly question, get a silly ANSI.
 
 <!--joke-end-->
 
