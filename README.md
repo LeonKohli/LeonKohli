@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-ASCII silly question, get a silly ANSI.
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 
 <!--joke-end-->
 
