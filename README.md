@@ -41,7 +41,7 @@ Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert 
 ## Daily Joke
 
 <!--joke-start-->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+ASCII silly question, get a silly ANSI.
 
 <!--joke-end-->
 
