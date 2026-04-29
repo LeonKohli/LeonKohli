@@ -25,6 +25,7 @@
 ---
 
 Hi, I'm Leon — Full Stack Developer based in Potsdam, Computer Science Expert specializing in Software Development (Fachinformatiker Anwendungsentwicklung). I build web apps with Vue.js, FastAPI, Flask, and Node.js. Right now I'm leading the Mantis Project with the Naturkundemuseum Potsdam, where we use tech to track praying mantis sightings across Germany. I also spend way too much time on home automation, messing with Raspberry Pis, and poking at network security.
+I also use mac
 
 ### What I'm working on 🛠️
 
