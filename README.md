@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-How did the programmer die in the shower? - He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 <!--joke-end-->
 
