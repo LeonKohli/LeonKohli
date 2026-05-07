@@ -42,13 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 
 <!--joke-end-->
 
