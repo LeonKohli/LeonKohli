@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
 
 <!--joke-end-->
 
