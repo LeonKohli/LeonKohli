@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 <!--joke-end-->
 
