@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+Why did the programmer jump on the table? - Because debug was on his screen.
 
 <!--joke-end-->
 
