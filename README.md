@@ -42,10 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+I'd tell you a joke about NAT but I would have to translate.
 
 <!--joke-end-->
 
