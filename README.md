@@ -42,7 +42,8 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-I'd tell you a joke about NAT but I would have to translate.
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 
 <!--joke-end-->
 
