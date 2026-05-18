@@ -42,8 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+What's the object-oriented way to become wealthy? - Inheritance.
 
 <!--joke-end-->
 
