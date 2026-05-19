@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-What's the object-oriented way to become wealthy? - Inheritance.
+Your mama's so FAT she can't save files bigger than 4GB.
 
 <!--joke-end-->
 
