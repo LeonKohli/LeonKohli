@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-I'd tell you a joke about NAT but I would have to translate.
+ASCII silly question, get a silly ANSI.
 
 <!--joke-end-->
 
