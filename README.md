@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-ASCII silly question, get a silly ANSI.
+Hey, wanna hear a joke? - Parsing HTML with regex.
 
 <!--joke-end-->
 
