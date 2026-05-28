@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Hey, wanna hear a joke? - Parsing HTML with regex.
+How do you generate a random string? - Put a Windows user in front of Vim and tell them to exit.
 
 <!--joke-end-->
 
