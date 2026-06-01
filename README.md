@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why do programmers wear glasses? - Because they need to C#
+The generation of random numbers is too important to be left to chance.
 
 <!--joke-end-->
 
