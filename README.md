@@ -42,7 +42,10 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-The generation of random numbers is too important to be left to chance.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 
 <!--joke-end-->
 
