@@ -42,10 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 
 <!--joke-end-->
 
