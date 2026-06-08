@@ -42,7 +42,8 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why do Java programmers hate communism? - They don't want to live in a classless society.
+A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 
 <!--joke-end-->
 
