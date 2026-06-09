@@ -42,8 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+What is the most used language in programming? - Profanity.
 
 <!--joke-end-->
 
