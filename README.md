@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-So what's a set of predefined steps the government might take to preserve the environment? - An Al-Gore-ithm.
+What do you call a developer who doesn't comment code? - A developer.
 
 <!--joke-end-->
 
