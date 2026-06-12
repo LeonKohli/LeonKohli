@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a developer who doesn't comment code? - A developer.
+.NET developers are picky when it comes to food. - They only like chicken NuGet.
 
 <!--joke-end-->
 
