@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-.NET developers are picky when it comes to food. - They only like chicken NuGet.
+How many programmers does it take to screw in a light bulb? - None. It's a hardware problem.
 
 <!--joke-end-->
 
