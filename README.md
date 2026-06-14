@@ -42,7 +42,11 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-How many programmers does it take to screw in a light bulb? - None. It's a hardware problem.
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 
 <!--joke-end-->
 
