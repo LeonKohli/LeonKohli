@@ -42,11 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 <!--joke-end-->
 
