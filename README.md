@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+Why did the programmer quit his job? - Because he didn't get arrays.
 
 <!--joke-end-->
 
