@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-So what's a set of predefined steps the government might take to preserve the environment? - An Al-Gore-ithm.
+Programming is like sex. - Make one mistake and you end up supporting it for the rest of your life.
 
 <!--joke-end-->
 
