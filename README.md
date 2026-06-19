@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Programming is like sex. - Make one mistake and you end up supporting it for the rest of your life.
+Your mama's so FAT she can't save files bigger than 4GB.
 
 <!--joke-end-->
 
