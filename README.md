@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why did the JavaScript heap close shop? - It ran out of memory.
+Why are modern programming languages so materialistic? - Because they are object-oriented.
 
 <!--joke-end-->
 
