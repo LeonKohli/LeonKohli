@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-How many programmers does it take to screw in a light bulb? - None. It's a hardware problem.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 <!--joke-end-->
 
