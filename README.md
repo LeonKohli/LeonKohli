@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 
 <!--joke-end-->
 
