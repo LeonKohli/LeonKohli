@@ -42,11 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 
 <!--joke-end-->
 
