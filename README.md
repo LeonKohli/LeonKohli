@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Why did the Python data scientist get arrested at customs? - She was caught trying to import pandas!
 
 <!--joke-end-->
 
