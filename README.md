@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
+Hey, wanna hear a joke? - Parsing HTML with regex.
 
 <!--joke-end-->
 
