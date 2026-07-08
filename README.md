@@ -42,7 +42,13 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-How do you generate a random string? - Put a Windows user in front of Vim and tell them to exit.
+The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?
 
 <!--joke-end-->
 
