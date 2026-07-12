@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
+What's the object-oriented way to become wealthy? - Inheritance.
 
 <!--joke-end-->
 
