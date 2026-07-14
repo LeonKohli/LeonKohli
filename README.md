@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-"We messed up the keming again guys."
+Why is Linux safe? - Hackers peak through Windows only.
 
 <!--joke-end-->
 
