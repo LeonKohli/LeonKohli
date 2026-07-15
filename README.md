@@ -42,7 +42,8 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why is Linux safe? - Hackers peak through Windows only.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 
 <!--joke-end-->
 
