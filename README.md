@@ -42,7 +42,9 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-// This line doesn't actually do anything, but the code stops working when I delete it.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
 
 <!--joke-end-->
 
