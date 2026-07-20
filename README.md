@@ -42,9 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing...
+There are only 10 kinds of people in this world: those who know binary and those who don't.
 
 <!--joke-end-->
 
