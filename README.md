@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why did the Python data scientist get arrested at customs? - She was caught trying to import pandas!
+Why did the functional programmer get thrown out of school? - Because he refused to take classes.
 
 <!--joke-end-->
 
