@@ -42,8 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 <!--joke-end-->
 
