@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why did the Python programmer not respond to the foreign mails he got? - Because his interpreter was busy collecting garbage.
+I'd tell you a joke about NAT but I would have to translate.
 
 <!--joke-end-->
 
