@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-.NET developers are picky when it comes to food. - They only like chicken NuGet.
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 
 <!--joke-end-->
 
