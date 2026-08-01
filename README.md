@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+I'd tell you a joke about NAT but I would have to translate.
 
 <!--joke-end-->
 
