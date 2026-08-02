@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-I'd tell you a joke about NAT but I would have to translate.
+Hey baby I wish your name was asynchronous... - ... so you'd give me a callback.
 
 <!--joke-end-->
 
