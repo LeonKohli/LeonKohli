@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-ASCII silly question, get a silly ANSI.
+What's the object-oriented way to become wealthy? - Inheritance.
 
 <!--joke-end-->
 
