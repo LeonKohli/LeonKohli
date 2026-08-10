@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why was the JavaScript developer sad? - Because they didn't Node how to Express themself!
+What is the most used language in programming? - Profanity.
 
 <!--joke-end-->
 
