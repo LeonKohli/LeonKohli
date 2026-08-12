@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why are Assembly programmers always soaking wet? - They work below C-level.
+ASCII silly question, get a silly ANSI.
 
 <!--joke-end-->
 
