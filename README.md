@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-So what's a set of predefined steps the government might take to preserve the environment? - An Al-Gore-ithm.
+Why did the programmer jump on the table? - Because debug was on his screen.
 
 <!--joke-end-->
 
