@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer jump on the table? - Because debug was on his screen.
+I'd tell you a joke about NAT but I would have to translate.
 
 <!--joke-end-->
 
