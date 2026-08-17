@@ -42,7 +42,10 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-I'd tell you a joke about NAT but I would have to translate.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 
 <!--joke-end-->
 
