@@ -42,10 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
 
 <!--joke-end-->
 
