@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender.
+What do you call a group of 8 Hobbits? - A Hobbyte.
 
 <!--joke-end-->
 
