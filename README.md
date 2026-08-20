@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a group of 8 Hobbits? - A Hobbyte.
+What is the most used language in programming? - Profanity.
 
 <!--joke-end-->
 
