@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-What is the most used language in programming? - Profanity.
+How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
 
 <!--joke-end-->
 
