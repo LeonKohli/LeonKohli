@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 
 <!--joke-end-->
 
