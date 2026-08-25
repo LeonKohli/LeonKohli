@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+Why is Linux safe? - Hackers peak through Windows only.
 
 <!--joke-end-->
 
