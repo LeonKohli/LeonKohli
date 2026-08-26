@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why is Linux safe? - Hackers peak through Windows only.
+Why does no one like SQLrillex? - He keeps dropping the database.
 
 <!--joke-end-->
 
