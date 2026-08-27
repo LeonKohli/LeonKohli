@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why does no one like SQLrillex? - He keeps dropping the database.
+Debugging: Removing the needles from the haystack.
 
 <!--joke-end-->
 
