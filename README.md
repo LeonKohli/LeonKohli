@@ -42,11 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+Why did the programmer quit his job? - Because he didn't get arrays.
 
 <!--joke-end-->
 
