@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer quit his job? - Because he didn't get arrays.
+Debugging: Removing the needles from the haystack.
 
 <!--joke-end-->
 
