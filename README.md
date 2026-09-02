@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Debugging: Removing the needles from the haystack.
+What is the best prefix for global variables? - //
 
 <!--joke-end-->
 
