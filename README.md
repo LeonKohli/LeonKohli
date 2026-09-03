@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-What is the best prefix for global variables? - //
+Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
 
 <!--joke-end-->
 
