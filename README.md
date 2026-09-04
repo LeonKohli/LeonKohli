@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Why do programmers confuse Halloween and Christmas? - Because Oct 31 = Dec 25
 
 <!--joke-end-->
 
