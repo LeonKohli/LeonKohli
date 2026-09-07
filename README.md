@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+The generation of random numbers is too important to be left to chance.
 
 <!--joke-end-->
 
