@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-The generation of random numbers is too important to be left to chance.
+What's the object-oriented way to become wealthy? - Inheritance.
 
 <!--joke-end-->
 
