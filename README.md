@@ -42,10 +42,8 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't.
 
 <!--joke-end-->
 
