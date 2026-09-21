@@ -42,9 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+Why did the functional programmer get thrown out of school? - Because he refused to take classes.
 
 <!--joke-end-->
 
