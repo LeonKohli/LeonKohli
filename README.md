@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why did the functional programmer get thrown out of school? - Because he refused to take classes.
+What is the most used language in programming? - Profanity.
 
 <!--joke-end-->
 
