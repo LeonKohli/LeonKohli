@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer jump on the table? - Because debug was on his screen.
+Debugging: Removing the needles from the haystack.
 
 <!--joke-end-->
 
