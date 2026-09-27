@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Debugging: Removing the needles from the haystack.
+What do you get if you lock a monkey in a room with a typewriter for 8 hours? - A regular expression.
 
 <!--joke-end-->
 
