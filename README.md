@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-"We messed up the keming again guys."
+Why do Java programmers hate communism? - They don't want to live in a classless society.
 
 <!--joke-end-->
 
