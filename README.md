@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why do Java programmers hate communism? - They don't want to live in a classless society.
+Why are modern programming languages so materialistic? - Because they are object-oriented.
 
 <!--joke-end-->
 
