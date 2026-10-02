@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why are modern programming languages so materialistic? - Because they are object-oriented.
+Why did the database administrator leave his wife? - She had one-to-many relationships.
 
 <!--joke-end-->
 
