@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why did the database administrator leave his wife? - She had one-to-many relationships.
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 
 <!--joke-end-->
 
