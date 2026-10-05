@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-How did you make your friend rage? - I implemented a greek question mark in his JavaScript code.
+Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
 
 <!--joke-end-->
 
