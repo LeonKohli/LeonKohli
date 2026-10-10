@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why did the programmer jump on the table? - Because debug was on his screen.
+// This line doesn't actually do anything, but the code stops working when I delete it.
 
 <!--joke-end-->
 
