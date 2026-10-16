@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-.NET developers are picky when it comes to food. - They only like chicken NuGet.
+Why did the programmer jump on the table? - Because debug was on his screen.
 
 <!--joke-end-->
 
