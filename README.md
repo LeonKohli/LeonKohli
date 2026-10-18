@@ -42,7 +42,10 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 
 <!--joke-end-->
 
