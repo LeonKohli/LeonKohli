@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-// This line doesn't actually do anything, but the code stops working when I delete it.
+Why are modern programming languages so materialistic? - Because they are object-oriented.
 
 <!--joke-end-->
 
