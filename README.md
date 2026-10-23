@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why is 6 afraid of 7 in hexadecimal Canada? - Because 7 8 9 A?
+What are bits? - Tiny things left when you drop your computer down the stairs.
 
 <!--joke-end-->
 
