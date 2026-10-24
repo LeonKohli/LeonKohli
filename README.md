@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-What are bits? - Tiny things left when you drop your computer down the stairs.
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 
 <!--joke-end-->
 
