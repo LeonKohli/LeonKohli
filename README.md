@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Your momma is so fat, you need to switch to NTFS to store a picture of her.
+Why does no one like SQLrillex? - He keeps dropping the database.
 
 <!--joke-end-->
 
