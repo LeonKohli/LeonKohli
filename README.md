@@ -42,10 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+Why did the functional programmer get thrown out of school? - Because he refused to take classes.
 
 <!--joke-end-->
 
