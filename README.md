@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why was the JavaScript developer sad? - Because they didn't Node how to Express themself!
+What are bits? - Tiny things left when you drop your computer down the stairs.
 
 <!--joke-end-->
 
