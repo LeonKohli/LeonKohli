@@ -42,7 +42,11 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-What are bits? - Tiny things left when you drop your computer down the stairs.
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 
 <!--joke-end-->
 
