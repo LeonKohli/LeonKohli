@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-What are bits? - Tiny things left when you drop your computer down the stairs.
+Why do Java programmers hate communism? - They don't want to live in a classless society.
 
 <!--joke-end-->
 
