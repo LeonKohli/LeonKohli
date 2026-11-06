@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why do Java programmers hate communism? - They don't want to live in a classless society.
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 
 <!--joke-end-->
 
