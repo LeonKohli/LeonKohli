@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-What do you call a group of 8 Hobbits? - A Hobbyte.
+Hey, wanna hear a joke? - Parsing HTML with regex.
 
 <!--joke-end-->
 
