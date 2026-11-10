@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Hey, wanna hear a joke? - Parsing HTML with regex.
+Programming is like sex. - Make one mistake and you end up supporting it for the rest of your life.
 
 <!--joke-end-->
 
