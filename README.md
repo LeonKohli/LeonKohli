@@ -42,7 +42,11 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Programming is like sex. - Make one mistake and you end up supporting it for the rest of your life.
+Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 
 <!--joke-end-->
 
