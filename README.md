@@ -42,11 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+How do you know God is a shitty programmer? - He wrote the OS for an entire universe, but didn't leave a single useful comment.
 
 <!--joke-end-->
 
