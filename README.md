@@ -42,11 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 
 <!--joke-end-->
 
