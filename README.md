@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why did the web developer walk out of a resturant in disgust? - The seating was laid out in tables.
+Hey, wanna hear a joke? - Parsing HTML with regex.
 
 <!--joke-end-->
 
