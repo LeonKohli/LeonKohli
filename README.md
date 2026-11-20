@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Hey, wanna hear a joke? - Parsing HTML with regex.
+What do you call a developer who doesn't comment code? - A developer.
 
 <!--joke-end-->
 
