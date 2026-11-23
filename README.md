@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why do Java programmers hate communism? - They don't want to live in a classless society.
+Why are Assembly programmers always soaking wet? - They work below C-level.
 
 <!--joke-end-->
 
