@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Why are Assembly programmers always soaking wet? - They work below C-level.
+Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 
 <!--joke-end-->
 
