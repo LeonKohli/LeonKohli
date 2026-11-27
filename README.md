@@ -42,7 +42,7 @@ I also use mac
 ## Daily Joke
 
 <!--joke-start-->
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+What do you call a developer who doesn't comment code? - A developer.
 
 <!--joke-end-->
 
